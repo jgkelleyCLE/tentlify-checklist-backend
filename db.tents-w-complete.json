@@ -1,0 +1,6380 @@
+[{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e21"
+  },
+  "id": 25,
+  "product": "30 x 50 Navi-Lite (Gable)",
+  "price": 650,
+  "size": 1500,
+  "category": "Navi Trac",
+  "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/30x50_Navi.jpg",
+  "parts": [
+    {
+      "quantity": "10",
+      "item": "8' Legs",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Tall Legs",
+      "completed": false
+    },
+    {
+      "quantity": "6",
+      "item": "Gable End Perim",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "End Uprights",
+      "completed": false
+    },
+    {
+      "quantity": "6",
+      "item": "Uprights",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "15' Perimeter",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "10' Perimeter",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "15' Purlins",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "10' Purlins",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "15' Crossbars",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "10' Crossbar",
+      "completed": false
+    },
+    {
+      "quantity": "5",
+      "item": "Cross Braces",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "30' x 15' Mid Tops",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "30' x 10' Mid Tops",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "30' Gable End Tops",
+      "completed": false
+    },
+    {
+      "quantity": "18",
+      "item": "Concrete Blocks",
+      "completed": false
+    },
+    {
+      "quantity": "14",
+      "item": "Navi Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "3",
+      "item": "*Jacks",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Tarp",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Ladder",
+      "completed": false
+    }
+  ],
+  "tags": "30x50, gable, 30x50 gable, 30x50 navi, 30x50 navi-lite, 30 x 50 navi lite, 30 x 50 gable"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e10"
+  },
+  "id": 9,
+  "product": "40 x 40 Century",
+  "price": 1600,
+  "size": 1600,
+  "category": "Pole/Century",
+  "image": "https://i0.wp.com/partysafariohio.com/wp-content/uploads/2017/01/40x40Pole.jpg?resize=300%2C169&ssl=1",
+  "parts": [
+    {
+      "quantity": "16",
+      "item": "8' Legs",
+      "completed": false
+    },
+    {
+      "quantity": "24",
+      "item": "Big Stakes",
+      "completed": false
+    },
+    {
+      "quantity": "12",
+      "item": "Big Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "12",
+      "item": "Small Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "22' Center Poles",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "40' x 20' End Tops",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "Dumbbell",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "Pole Horses",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "Hammer/Pounder",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Measuring Tape",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Spray Paint",
+      "completed": false
+    },
+    {
+      "quantity": "17",
+      "item": "Wood Squares",
+      "completed": false
+    }
+  ],
+  "tags": "40x40, century, 40 x 40, 40x40 century, 40 x 40 century, Century"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e3c"
+  },
+  "id": 52,
+  "product": "10 x 50 Festival",
+  "price": 505,
+  "size": 500,
+  "category": "Festival",
+  "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/10x50.png",
+  "parts": [
+    {
+      "quantity": "12",
+      "item": "Legs (Black)",
+      "completed": false
+    },
+    {
+      "quantity": "16",
+      "item": "Perimeter (White)",
+      "completed": false
+    },
+    {
+      "quantity": "5",
+      "item": "Center Pole",
+      "completed": false
+    },
+    {
+      "quantity": "8",
+      "item": "'T' Castings",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "End Tops",
+      "completed": false
+    },
+    {
+      "quantity": "3",
+      "item": "Mid Tops",
+      "completed": false
+    }
+  ],
+  "tags": "10x50"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e0e"
+  },
+  "id": 7,
+  "product": "30 x 90 Century",
+  "price": 1890,
+  "size": 2700,
+  "category": "Pole/Century",
+  "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/30x90_century.jpg",
+  "parts": [
+    {
+      "quantity": "32",
+      "item": "8' Legs",
+      "completed": false
+    },
+    {
+      "quantity": "20",
+      "item": "Big Stakes",
+      "completed": false
+    },
+    {
+      "quantity": "20",
+      "item": "Big Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "16",
+      "item": "Small Stakes",
+      "completed": false
+    },
+    {
+      "quantity": "16",
+      "item": "Small Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "5",
+      "item": "18' Center Poles",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "30' x 15' End Tops",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "30' x 15' Mid Top",
+      "completed": false
+    },
+    {
+      "quantity": "5",
+      "item": "Dumbbells",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Pole Horses",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "Hammer/Pounder",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Measuring Tape",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Spray Paint",
+      "completed": false
+    },
+    {
+      "quantity": "32",
+      "item": "Wood Squares",
+      "completed": false
+    }
+  ],
+  "tags": "30x90, century, 30 x 90, 30x90 century, 30 x 90 century, Century"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e43"
+  },
+  "id": 59,
+  "product": "8 x 12 Stage",
+  "price": 300,
+  "size": 96,
+  "category": "Stage",
+  "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/8x12.png",
+  "parts": [
+    {
+      "quantity": "3",
+      "item": "Stage Panels",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Z-Legs",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Single Locators",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Dual Locators",
+      "completed": false
+    }
+  ],
+  "tags": "8x12 stage, 8x12, stage, Stage"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e47"
+  },
+  "id": 63,
+  "product": "12 x 24 Stage",
+  "price": 300,
+  "size": 288,
+  "category": "Stage",
+  "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/12x24.png",
+  "parts": [
+    {
+      "quantity": "9",
+      "item": "Stage Panels",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Z-Legs",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Single Locators",
+      "completed": false
+    },
+    {
+      "quantity": "8",
+      "item": "Dual Locators",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Quad Locators",
+      "completed": false
+    }
+  ],
+  "tags": "12x24 stage, 12x24, stage, Stage"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e28"
+  },
+  "id": 32,
+  "product": "30 x 80 Navi-Lite (Hip)",
+  "price": 1945,
+  "size": 2400,
+  "category": "Navi Trac",
+  "image": "https://i2.wp.com/partysafariohio.com/wp-content/uploads/2017/11/30x90NaviLiteWeb.jpg?resize=300%2C169&ssl=1",
+  "parts": [
+    {
+      "quantity": "16",
+      "item": "8' Legs",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Diag. Corner",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Hip End Uprights",
+      "completed": false
+    },
+    {
+      "quantity": "10",
+      "item": "Uprights",
+      "completed": false
+    },
+    {
+      "quantity": "12",
+      "item": "15' Perimeter",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "15' Crossbars",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "10' Perimeter",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "10' Crossbar",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "15' Purlins",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "10' Purlins",
+      "completed": false
+    },
+    {
+      "quantity": "5",
+      "item": "Cross Braces",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "30' x 15' End Tops",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "30' x 15' Mid Tops",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "30' x 10' Mid Top",
+      "completed": false
+    },
+    {
+      "quantity": "20",
+      "item": "Concrete Blocks",
+      "completed": false
+    },
+    {
+      "quantity": "16",
+      "item": "Navi Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "*Jacks",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Tarp",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Ladder",
+      "completed": false
+    }
+  ],
+  "tags": "30x80, hip, 30x80 hip, 30x80 navi, 30x80 navi-lite, 30 x 80 navi lite"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e0c"
+  },
+  "id": 5,
+  "product": "30 x 60 Century",
+  "price": 1260,
+  "size": 1800,
+  "category": "Pole/Century",
+  "image": "https://i0.wp.com/partysafariohio.com/wp-content/uploads/2017/01/30x60CentYard.jpg?resize=300%2C169&ssl=1",
+  "parts": [
+    {
+      "quantity": "24",
+      "item": "8' Legs",
+      "completed": false
+    },
+    {
+      "quantity": "16",
+      "item": "Big Stakes",
+      "completed": false
+    },
+    {
+      "quantity": "16",
+      "item": "Big Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "12",
+      "item": "Small Stakes",
+      "completed": false
+    },
+    {
+      "quantity": "12",
+      "item": "Small Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "3",
+      "item": "18' Center Poles",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "30' x 15' End Tops",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "30' x 15' Mid Top",
+      "completed": false
+    },
+    {
+      "quantity": "3",
+      "item": "Dumbbells",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Pole Horses",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "Hammer/Pounder",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Measuring Tape",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Spray Paint",
+      "completed": false
+    },
+    {
+      "quantity": "27",
+      "item": "Wood Squares",
+      "completed": false
+    }
+  ],
+  "tags": "30x60, century, 30 x 60, 30x60 century, 30 x 60 century, Century"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e0b"
+  },
+  "id": 4,
+  "product": "30 x 45 Century",
+  "price": 945,
+  "size": 1350,
+  "category": "Pole/Century",
+  "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/30x45_century.jpg",
+  "parts": [
+    {
+      "quantity": "20",
+      "item": "8' Legs",
+      "completed": false
+    },
+    {
+      "quantity": "14",
+      "item": "Big Stakes",
+      "completed": false
+    },
+    {
+      "quantity": "14",
+      "item": "Big Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "10",
+      "item": "Small Stakes",
+      "completed": false
+    },
+    {
+      "quantity": "10",
+      "item": "Small Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "18' Center Poles",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "30' x 15' End Tops",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "30' x 15' Mid Top",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Dumbbells",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "Pole Horse",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "Hammer/Pounder",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Measuring Tape",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Spray Paint",
+      "completed": false
+    },
+    {
+      "quantity": "22",
+      "item": "Wood Squares",
+      "completed": false
+    }
+  ],
+  "tags": "30x45, century, 30 x 45, 30x45 century, 30 x 45 century, Century"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e15"
+  },
+  "id": 14,
+  "product": "40 x 140 Century",
+  "price": 3080,
+  "size": 5600,
+  "category": "Pole/Century",
+  "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/40x140Cent.jpg",
+  "parts": [
+    {
+      "quantity": "36",
+      "item": "8' Legs",
+      "completed": false
+    },
+    {
+      "quantity": "44",
+      "item": "Big Stakes",
+      "completed": false
+    },
+    {
+      "quantity": "22",
+      "item": "Big Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "22",
+      "item": "Small Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "6",
+      "item": "22' Center Poles",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "40' x 20' End Tops",
+      "completed": false
+    },
+    {
+      "quantity": "5",
+      "item": "40' x 20' Mid Top",
+      "completed": false
+    },
+    {
+      "quantity": "6",
+      "item": "Dumbbells",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Pole Horses",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "Hammer/Pounder",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Measuring Tape",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Spray Paint",
+      "completed": false
+    },
+    {
+      "quantity": "42",
+      "item": "Wood Squares",
+      "completed": false
+    }
+  ],
+  "tags": "40x140, century, 40 x 140, 40x140 century, 40 x 140 century, Century"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e1a"
+  },
+  "id": 19,
+  "product": "30 x 30 Navi-Lite (Gable)",
+  "price": 650,
+  "size": 900,
+  "category": "Navi Trac",
+  "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/30x30_gable.jpg",
+  "parts": [
+    {
+      "quantity": "6",
+      "item": "8' Legs",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Tall Legs",
+      "completed": false
+    },
+    {
+      "quantity": "6",
+      "item": "Gable End Perim",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "End Uprights",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Uprights",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "15' Perimeter",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "15' Purlins",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "15' Crossbars",
+      "completed": false
+    },
+    {
+      "quantity": "3",
+      "item": "Cross Braces",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "30' x 15' Mid Tops",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "30' Gable End Tops",
+      "completed": false
+    },
+    {
+      "quantity": "14",
+      "item": "Concrete Blocks",
+      "completed": false
+    },
+    {
+      "quantity": "10",
+      "item": "Navi Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "*Jacks",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Tarp",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Ladder",
+      "completed": false
+    }
+  ],
+  "tags": "30x30, gable, 30x30 gable, 30x30 navi, 30x30 navi-lite, 30 x 30 navi lite, 30 x 30 gable"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e14"
+  },
+  "id": 13,
+  "product": "40 x 120 Century",
+  "price": 2640,
+  "size": 4800,
+  "category": "Pole/Century",
+  "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/40x120CenturyThumb.jpg",
+  "parts": [
+    {
+      "quantity": "32",
+      "item": "8' Legs",
+      "completed": false
+    },
+    {
+      "quantity": "40",
+      "item": "Big Stakes",
+      "completed": false
+    },
+    {
+      "quantity": "20",
+      "item": "Big Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "20",
+      "item": "Small Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "5",
+      "item": "22' Center Poles",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "40' x 20' End Tops",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "40' x 20' Mid Top",
+      "completed": false
+    },
+    {
+      "quantity": "5",
+      "item": "Dumbbells",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Pole Horses",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "Hammer/Pounder",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Measuring Tape",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Spray Paint",
+      "completed": false
+    },
+    {
+      "quantity": "37",
+      "item": "Wood Squares",
+      "completed": false
+    }
+  ],
+  "tags": "40x120, century, 40 x 120, 40x120 century, 40 x 120 century, Century"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e1f"
+  },
+  "id": 23,
+  "product": "30 x 45 Navi-Lite (Gable)",
+  "price": 975,
+  "size": 1350,
+  "category": "Navi Trac",
+  "image": "https://i0.wp.com/partysafariohio.com/wp-content/uploads/2017/01/30x45Gable.jpg?resize=300%2C169&ssl=1",
+  "parts": [
+    {
+      "quantity": "8",
+      "item": "8' Legs",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Tall Legs",
+      "completed": false
+    },
+    {
+      "quantity": "6",
+      "item": "Gable End Perim",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "End Uprights",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Uprights",
+      "completed": false
+    },
+    {
+      "quantity": "6",
+      "item": "15' Perimeter",
+      "completed": false
+    },
+    {
+      "quantity": "6",
+      "item": "15' Purlins",
+      "completed": false
+    },
+    {
+      "quantity": "3",
+      "item": "15' Crossbars",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Cross Braces",
+      "completed": false
+    },
+    {
+      "quantity": "3",
+      "item": "30' x 15' Mid Tops",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "30' Gable End Tops",
+      "completed": false
+    },
+    {
+      "quantity": "14",
+      "item": "Concrete Blocks",
+      "completed": false
+    },
+    {
+      "quantity": "12",
+      "item": "Navi Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "*Jacks",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Tarp",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Ladder",
+      "completed": false
+    }
+  ],
+  "tags": "30x45, gable, 30x45 gable, 30x45 navi, 30x45 navi-lite, 30 x 45 navi lite, 30 x 45 gable"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e20"
+  },
+  "id": 24,
+  "product": "30 x 50 Navi-Lite (Hip)",
+  "price": 650,
+  "size": 1500,
+  "category": "Navi Trac",
+  "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/30x50_Navi.jpg",
+  "parts": [
+    {
+      "quantity": "12",
+      "item": "8' Legs",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Diag. Corner",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Hip End Uprights",
+      "completed": false
+    },
+    {
+      "quantity": "6",
+      "item": "Uprights",
+      "completed": false
+    },
+    {
+      "quantity": "8",
+      "item": "15' Perimeter",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "10' Perimeter",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "10' Crossbars",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "10' Purlins",
+      "completed": false
+    },
+    {
+      "quantity": "3",
+      "item": "Cross Braces",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "30' x 15' End Tops",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "30' x 10' Mid Tops",
+      "completed": false
+    },
+    {
+      "quantity": "16",
+      "item": "Concrete Blocks",
+      "completed": false
+    },
+    {
+      "quantity": "12",
+      "item": "Navi Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "3",
+      "item": "*Jacks",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Tarp",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Ladder",
+      "completed": false
+    }
+  ],
+  "tags": "30x50, hip, hip, 30x50 hip, 30x50 navi, 30x50 navi-lite, 30 x 50 navi lite"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e2b"
+  },
+  "id": 35,
+  "product": "30 x 90 Navi-Lite (Gable)",
+  "price": 1945,
+  "size": 2700,
+  "category": "Navi Trac",
+  "image": "https://i2.wp.com/partysafariohio.com/wp-content/uploads/2017/11/30x90NaviLiteWeb.jpg?resize=300%2C169&ssl=1",
+  "parts": [
+    {
+      "quantity": "14",
+      "item": "8' Legs",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Tall Legs",
+      "completed": false
+    },
+    {
+      "quantity": "6",
+      "item": "Gable End Perim",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "End Uprights",
+      "completed": false
+    },
+    {
+      "quantity": "10",
+      "item": "Uprights",
+      "completed": false
+    },
+    {
+      "quantity": "12",
+      "item": "15' Perimeter",
+      "completed": false
+    },
+    {
+      "quantity": "12",
+      "item": "15' Purlins",
+      "completed": false
+    },
+    {
+      "quantity": "6",
+      "item": "15' Crossbars",
+      "completed": false
+    },
+    {
+      "quantity": "7",
+      "item": "Cross Braces",
+      "completed": false
+    },
+    {
+      "quantity": "6",
+      "item": "30' x 15' Mid Tops",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "30' Gable End Tops",
+      "completed": false
+    },
+    {
+      "quantity": "22",
+      "item": "Concrete Blocks",
+      "completed": false
+    },
+    {
+      "quantity": "18",
+      "item": "Navi Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "*Jacks",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Tarp",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Ladder",
+      "completed": false
+    }
+  ],
+  "tags": "30x90, gable, 30x90 gable, 30x90 navi, 30x90 navi-lite, 30 x 90 navi lite, 30 x 90 gable"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e30"
+  },
+  "id": 40,
+  "product": "40 x 80 Navi-Trac (Hip)",
+  "price": 2800,
+  "size": 3200,
+  "category": "Navi Trac",
+  "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/40x80_hip.jpg",
+  "parts": [
+    {
+      "quantity": "12",
+      "item": "8' Legs",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Diag. Upper Splice",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Diag. Lower Splice",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Hip End Uprights",
+      "completed": false
+    },
+    {
+      "quantity": "8",
+      "item": "Hip Perimeter",
+      "completed": false
+    },
+    {
+      "quantity": "8",
+      "item": "Hip Purlins",
+      "completed": false
+    },
+    {
+      "quantity": "6",
+      "item": "Uprights",
+      "completed": false
+    },
+    {
+      "quantity": "6",
+      "item": "20' Perimeter",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "20' Purlins",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "10' Purlins",
+      "completed": false
+    },
+    {
+      "quantity": "8",
+      "item": "Corner Braces",
+      "completed": false
+    },
+    {
+      "quantity": "3",
+      "item": "Cross Braces",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "40' x 20' End Tops",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "40' x 20' Mid Tops",
+      "completed": false
+    },
+    {
+      "quantity": "3",
+      "item": "Push bars",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Spacers",
+      "completed": false
+    },
+    {
+      "quantity": "20",
+      "item": "Concrete Blocks",
+      "completed": false
+    },
+    {
+      "quantity": "12",
+      "item": "Navi Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Spray Paint/Chalk",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Measuring Tape",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "*Jacks",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Tarp",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Ladder",
+      "completed": false
+    }
+  ],
+  "tags": "40x80, hip, 40x80 hip, 40x80 navi, 40x80 navi, 40 x 80 navi"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e3a"
+  },
+  "id": 50,
+  "product": "10 x 30 Festival",
+  "price": 305,
+  "size": 300,
+  "category": "Festival",
+  "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/10x30.png",
+  "parts": [
+    {
+      "quantity": "8",
+      "item": "Legs (Black)",
+      "completed": false
+    },
+    {
+      "quantity": "10",
+      "item": "Perimeter (White)",
+      "completed": false
+    },
+    {
+      "quantity": "3",
+      "item": "Center Pole",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "'T' Castings",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "End Tops",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "Mid Top",
+      "completed": false
+    }
+  ],
+  "tags": "10x30"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e4a"
+  },
+  "id": 66,
+  "product": "16 x 20 Stage",
+  "price": 300,
+  "size": 320,
+  "category": "Stage",
+  "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/16x20.png",
+  "parts": [
+    {
+      "quantity": "10",
+      "item": "Stage Panels",
+      "completed": false
+    },
+    {
+      "quantity": "6",
+      "item": "Z-Legs",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Single Locators",
+      "completed": false
+    },
+    {
+      "quantity": "8",
+      "item": "Dual Locators",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Dual-Dual Locators",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Dual-Quad Locators",
+      "completed": false
+    }
+  ],
+  "tags": "16x20 stage, 16x20, stage, Stage"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e4f"
+  },
+  "id": 71,
+  "product": "40 x 60 Pole Tent",
+  "price": 1800,
+  "size": 2400,
+  "category": "Pole/Century",
+  "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/40x60Pole.png",
+  "parts": [
+    {
+      "quantity": "30",
+      "item": "7' Legs",
+      "completed": false
+    },
+    {
+      "quantity": "14",
+      "item": "Big Stakes",
+      "completed": false
+    },
+    {
+      "quantity": "14",
+      "item": "Big Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "20",
+      "item": "Small Stakes",
+      "completed": false
+    },
+    {
+      "quantity": "20",
+      "item": "Small Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "18' Center Poles",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "40' x 20' End Tops",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "40' x 20' Mid Top",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Dumbbells",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Pole Horses",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "Hammer/Pounder",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Measuring Tape",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Spray Paint",
+      "completed": false
+    },
+    {
+      "quantity": "30",
+      "item": "*Wood Squares",
+      "completed": false
+    }
+  ],
+  "tags": "40x60 pole tent, 40 x 60, 40x60, 40 x 60 pole tent, Pole Tent"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e53"
+  },
+  "id": 75,
+  "product": "50 x 40 Navi-Trac (Gable)",
+  "price": 3500,
+  "size": 2000,
+  "category": "Navi Trac",
+  "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/50WideDiagram.jpg",
+  "parts": [
+    {
+      "quantity": "6",
+      "item": "8' Legs",
+      "completed": false
+    },
+    {
+      "quantity": "6",
+      "item": "Tall Legs",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Gable Leg Splices",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Gable End Uprights",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Uprights",
+      "completed": false
+    },
+    {
+      "quantity": "6",
+      "item": "Upright Splices",
+      "completed": false
+    },
+    {
+      "quantity": "6",
+      "item": "20' Perimeter",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "15' Perimeter",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "10' Perimeter",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "20' Purlins",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "10' Purlins",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "Cross Braces",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Corner Braces",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "50' x 20' Mid Tops",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "50' Gable Tops",
+      "completed": false
+    },
+    {
+      "quantity": "20",
+      "item": "Concrete Blocks",
+      "completed": false
+    },
+    {
+      "quantity": "12",
+      "item": "Navi Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Spray Paint/Chalk",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Measuring Tape",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Tarp",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "*Ladders",
+      "completed": false
+    }
+  ],
+  "tags": "50x40, gable, 50x40 gable, 50x40 navi, 50x40 navi, 50 x 40 navi"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e54"
+  },
+  "id": 76,
+  "product": "50 x 60 Navi-Trac (Gable)",
+  "price": 3500,
+  "size": 3000,
+  "category": "Navi Trac",
+  "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/50WideDiagram.jpg",
+  "parts": [
+    {
+      "quantity": "8",
+      "item": "8' Legs",
+      "completed": false
+    },
+    {
+      "quantity": "6",
+      "item": "Tall Legs",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Gable Leg Splices",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Gable End Uprights",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Uprights",
+      "completed": false
+    },
+    {
+      "quantity": "8",
+      "item": "Upright Splices",
+      "completed": false
+    },
+    {
+      "quantity": "9",
+      "item": "20' Perimeter",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "15' Perimeter",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "10' Perimeter",
+      "completed": false
+    },
+    {
+      "quantity": "6",
+      "item": "20' Purlins",
+      "completed": false
+    },
+    {
+      "quantity": "6",
+      "item": "10' Purlins",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Cross Braces",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Corner Braces",
+      "completed": false
+    },
+    {
+      "quantity": "3",
+      "item": "50' x 20' Mid Tops",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "50' Gable Tops",
+      "completed": false
+    },
+    {
+      "quantity": "22",
+      "item": "Concrete Blocks",
+      "completed": false
+    },
+    {
+      "quantity": "14",
+      "item": "Navi Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Spray Paint/Chalk",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Measuring Tape",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Tarp",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "*Ladders",
+      "completed": false
+    }
+  ],
+  "tags": "50x60, gable, 50x60 gable, 50x60 navi, 50x60 navi, 50 x 60 navi"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e17"
+  },
+  "id": 16,
+  "product": "60 x 90 Twin Peak",
+  "price": 3510,
+  "size": 5400,
+  "category": "Pole/Century",
+  "image": "https://i1.wp.com/partysafariohio.com/wp-content/uploads/2017/01/60x90Above.jpg?resize=300%2C169&ssl=1",
+  "parts": [
+    {
+      "quantity": "30",
+      "item": "8' Legs",
+      "completed": false
+    },
+    {
+      "quantity": "62",
+      "item": "Big Stakes",
+      "completed": false
+    },
+    {
+      "quantity": "50",
+      "item": "Big Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "14",
+      "item": "Stake Plates",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Center Poles",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Center Pole Wheels",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "60' x 30' End Tops",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "60' x 30' Mid Top",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Dumbbells",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Pole Horses",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Hammer/Pounder",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Measuring Tape",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Spray Paint",
+      "completed": false
+    },
+    {
+      "quantity": "34",
+      "item": "Wood Squares",
+      "completed": false
+    }
+  ],
+  "tags": "60x90, century, 60 x 90, 60x90 century, 60 x 90 century, Century, twin peak, 60 x 90 twin peak"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e1c"
+  },
+  "id": 21,
+  "product": "30 x 40 Navi-Lite (Gable)",
+  "price": 650,
+  "size": 1200,
+  "category": "Navi Trac",
+  "image": "https://i1.wp.com/partysafariohio.com/wp-content/uploads/2017/01/30x30Navi.jpg?resize=300%2C169&ssl=1",
+  "parts": [
+    {
+      "quantity": "8",
+      "item": "8' Legs",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Tall Legs",
+      "completed": false
+    },
+    {
+      "quantity": "6",
+      "item": "Gable End Perim",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "End Uprights",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Uprights",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "15' Perimeter",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "10' Perimeter",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "15' Purlins",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "10' Purlins",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "15' Crossbars",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "10' Crossbar",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Cross Braces",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "30' x 15' Mid Tops",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "30' x 10' Mid Top",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "30' Gable End Tops",
+      "completed": false
+    },
+    {
+      "quantity": "16",
+      "item": "Concrete Blocks",
+      "completed": false
+    },
+    {
+      "quantity": "12",
+      "item": "Navi Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "*Jacks",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Tarp",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Ladder",
+      "completed": false
+    }
+  ],
+  "tags": "30x40, gable, 30x40 gable, 30x40 navi, 30x40 navi-lite, 30 x 40 navi lite, 30 x 40 gable"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e24"
+  },
+  "id": 28,
+  "product": "30 x 70 Navi-Lite (Hip)",
+  "price": 1300,
+  "size": 2100,
+  "category": "Navi Trac",
+  "image": "https://i0.wp.com/partysafariohio.com/wp-content/uploads/2017/01/30x60.jpg?resize=300%2C169&ssl=1",
+  "parts": [
+    {
+      "quantity": "14",
+      "item": "8' Legs",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Diag. Corner",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Hip End Uprights",
+      "completed": false
+    },
+    {
+      "quantity": "8",
+      "item": "Uprights",
+      "completed": false
+    },
+    {
+      "quantity": "12",
+      "item": "15' Perimeter",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "15' Crossbars",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "10' Perimeter",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "10' Crossbar",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "15' Purlins",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "10' Purlins",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Cross Braces",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "30' x 15' End Tops",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "30' x 15' Mid Tops",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "30' x 10' Mid Top",
+      "completed": false
+    },
+    {
+      "quantity": "18",
+      "item": "Concrete Blocks",
+      "completed": false
+    },
+    {
+      "quantity": "12",
+      "item": "Navi Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "3",
+      "item": "*Jacks",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Tarp",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Ladder",
+      "completed": false
+    }
+  ],
+  "tags": "30x70, hip, 30x70 hip, 30x70 navi, 30x70 navi-lite, 30 x 70 navi lite"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e2a"
+  },
+  "id": 34,
+  "product": "30 x 90 Navi-Lite (Hip)",
+  "price": 1945,
+  "size": 2700,
+  "category": "Navi Trac",
+  "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/30x90_hip.jpg",
+  "parts": [
+    {
+      "quantity": "16",
+      "item": "8' Legs",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Diag. Corner",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Hip End Uprights",
+      "completed": false
+    },
+    {
+      "quantity": "10",
+      "item": "Uprights",
+      "completed": false
+    },
+    {
+      "quantity": "16",
+      "item": "15' Perimeter",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "15' Crossbars",
+      "completed": false
+    },
+    {
+      "quantity": "8",
+      "item": "15' Purlins",
+      "completed": false
+    },
+    {
+      "quantity": "5",
+      "item": "Cross Braces",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "30' x 15' End Tops",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "30' x 15' Mid Tops",
+      "completed": false
+    },
+    {
+      "quantity": "20",
+      "item": "Concrete Blocks",
+      "completed": false
+    },
+    {
+      "quantity": "16",
+      "item": "Navi Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "5",
+      "item": "*Jacks",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Tarp",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Ladder",
+      "completed": false
+    }
+  ],
+  "tags": "30x90, hip, 30x90 hip, 30x90 navi, 30x90 navi-lite, 30 x 90 navi lite"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e2f"
+  },
+  "id": 39,
+  "product": "40 x 60 Navi-Trac (Gable)",
+  "price": 2100,
+  "size": 2400,
+  "category": "Navi Trac",
+  "image": "https://i2.wp.com/partysafariohio.com/wp-content/uploads/2017/01/40x60-IX.jpg?resize=300%2C169&ssl=1",
+  "parts": [
+    {
+      "quantity": "8",
+      "item": "8' Legs",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Tall Legs",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Gable End Uprights",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Uprights",
+      "completed": false
+    },
+    {
+      "quantity": "9",
+      "item": "20' Perimeter",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "15' Perimeter",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "10' Perimeter",
+      "completed": false
+    },
+    {
+      "quantity": "6",
+      "item": "20' Purlins",
+      "completed": false
+    },
+    {
+      "quantity": "6",
+      "item": "10' Purlins",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Cross Braces",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Corner Braces",
+      "completed": false
+    },
+    {
+      "quantity": "3",
+      "item": "40' x 20' Mid Tops",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "40' Gable Tops",
+      "completed": false
+    },
+    {
+      "quantity": "3",
+      "item": "Push bars",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Spacers",
+      "completed": false
+    },
+    {
+      "quantity": "20",
+      "item": "Concrete Blocks",
+      "completed": false
+    },
+    {
+      "quantity": "12",
+      "item": "Navi Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Spray Paint/Chalk",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Measuring Tape",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Tarp",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "*Ladders",
+      "completed": false
+    }
+  ],
+  "tags": "40x60, gable, 40x60 gable, 40x60 navi, 40x60 navi, 40 x 60 navi"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e2c"
+  },
+  "id": 36,
+  "product": "40 x 40 Navi-Trac (Hip)",
+  "price": 1400,
+  "size": 1600,
+  "category": "Navi Trac",
+  "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/40x40_public-square.jpg",
+  "parts": [
+    {
+      "quantity": "8",
+      "item": "8' Legs",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Diag. Upper Splice",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Diag. Lower Splice",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Hip End Uprights",
+      "completed": false
+    },
+    {
+      "quantity": "8",
+      "item": "Hip Perimeter",
+      "completed": false
+    },
+    {
+      "quantity": "8",
+      "item": "Hip Purlins",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Uprights",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Corner Braces",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "Cross Brace",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "40' x 20' End Tops",
+      "completed": false
+    },
+    {
+      "quantity": "16",
+      "item": "Concrete Blocks",
+      "completed": false
+    },
+    {
+      "quantity": "8",
+      "item": "Navi Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Spray Paint/Chalk",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Measuring Tape",
+      "completed": false
+    },
+    {
+      "quantity": "3",
+      "item": "*Jacks",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Tarp",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Ladders",
+      "completed": false
+    }
+  ],
+  "tags": "40x40, hip, 40x40 hip, 40x40 navi, 40x40 navi, 40 x 40 navi"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e37"
+  },
+  "id": 47,
+  "product": "40 x 140 Navi-Trac (Gable)",
+  "price": 4900,
+  "size": 5600,
+  "category": "Navi Trac",
+  "image": "https://i0.wp.com/partysafariohio.com/wp-content/uploads/2017/02/40x140NaviScaled.jpg?resize=300%2C169&ssl=1",
+  "parts": [
+    {
+      "quantity": "16",
+      "item": "8' Legs",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Tall Legs",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Gable End Uprights",
+      "completed": false
+    },
+    {
+      "quantity": "12",
+      "item": "Uprights",
+      "completed": false
+    },
+    {
+      "quantity": "21",
+      "item": "20' Perimeter",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "15' Perimeter",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "10' Perimeter",
+      "completed": false
+    },
+    {
+      "quantity": "14",
+      "item": "20' Purlins",
+      "completed": false
+    },
+    {
+      "quantity": "14",
+      "item": "10' Purlins",
+      "completed": false
+    },
+    {
+      "quantity": "6",
+      "item": "Cross Braces",
+      "completed": false
+    },
+    {
+      "quantity": "12",
+      "item": "Corner Braces",
+      "completed": false
+    },
+    {
+      "quantity": "7",
+      "item": "40' x 20' Mid Tops",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "40' Gable Tops",
+      "completed": false
+    },
+    {
+      "quantity": "3",
+      "item": "Push bars",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Spacers",
+      "completed": false
+    },
+    {
+      "quantity": "28",
+      "item": "Concrete Blocks",
+      "completed": false
+    },
+    {
+      "quantity": "20",
+      "item": "Navi Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Spray Paint/Chalk",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Measuring Tape",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Tarp",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "*Ladders",
+      "completed": false
+    }
+  ],
+  "tags": "40x140, gable, 40x140 gable, 40x140 navi, 40x140 navi, 40 x 140 navi"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e38"
+  },
+  "id": 48,
+  "product": "10 x 10 Festival",
+  "price": 120,
+  "size": 100,
+  "category": "Festival",
+  "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/10x10.png",
+  "parts": [
+    {
+      "quantity": "4",
+      "item": "Legs (Black)",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Perimeter (White)",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "Center Pole",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "Top",
+      "completed": false
+    }
+  ],
+  "tags": "10x10"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e22"
+  },
+  "id": 26,
+  "product": "30 x 60 Navi-Lite (Hip)",
+  "price": 1300,
+  "size": 1800,
+  "category": "Navi Trac",
+  "image": "https://i0.wp.com/partysafariohio.com/wp-content/uploads/2017/01/30x60.jpg?resize=300%2C169&ssl=1",
+  "parts": [
+    {
+      "quantity": "12",
+      "item": "8' Legs",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Diag. Corner",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Hip End Uprights",
+      "completed": false
+    },
+    {
+      "quantity": "6",
+      "item": "Uprights",
+      "completed": false
+    },
+    {
+      "quantity": "12",
+      "item": "15' Perimeter",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "15' Crossbars",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "15' Purlins",
+      "completed": false
+    },
+    {
+      "quantity": "3",
+      "item": "Cross Braces",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "30' x 15' End Tops",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "30' x 15' Mid Tops",
+      "completed": false
+    },
+    {
+      "quantity": "16",
+      "item": "Concrete Blocks",
+      "completed": false
+    },
+    {
+      "quantity": "12",
+      "item": "Navi Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "3",
+      "item": "*Jacks",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Tarp",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Ladder",
+      "completed": false
+    }
+  ],
+  "tags": "30x60, hip, 30x60 hip, 30x60 navi, 30x60 navi-lite, 30 x 60 navi lite"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e2d"
+  },
+  "id": 37,
+  "product": "40 x 40 Navi-Trac (Gable)",
+  "price": 1400,
+  "size": 1600,
+  "category": "Navi Trac",
+  "image": "https://i2.wp.com/partysafariohio.com/wp-content/uploads/2017/01/40x40Navi.jpg?resize=300%2C169&ssl=1",
+  "parts": [
+    {
+      "quantity": "6",
+      "item": "8' Legs",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Tall Legs",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Gable End Uprights",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Uprights",
+      "completed": false
+    },
+    {
+      "quantity": "6",
+      "item": "20' Perimeter",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "15' Perimeter",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "10' Perimeter",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "20' Purlins",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "10' Purlins",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Corner Braces",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "Cross Brace",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "40' x 20' Mid Tops",
+      "completed": false
+    },
+    {
+      "quantity": "3",
+      "item": "Push bars",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Spacers",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "40' Gable Tops",
+      "completed": false
+    },
+    {
+      "quantity": "18",
+      "item": "Concrete Blocks",
+      "completed": false
+    },
+    {
+      "quantity": "10",
+      "item": "Navi Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Spray Paint/Chalk",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Measuring Tape",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Tarp",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "*Ladders",
+      "completed": false
+    }
+  ],
+  "tags": "40x40, gable, 40x40 gable, 40x40 navi, 40x40 navi, 40 x 40 navi"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e32"
+  },
+  "id": 42,
+  "product": "40 x 100 Navi-Trac (Hip)",
+  "price": 3500,
+  "size": 4000,
+  "category": "Navi Trac",
+  "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/40x100_WRLC.jpg",
+  "parts": [
+    {
+      "quantity": "14",
+      "item": "8' Legs",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Diag. Upper Splice",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Diag. Lower Splice",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Hip End Uprights",
+      "completed": false
+    },
+    {
+      "quantity": "8",
+      "item": "Hip Perimeter",
+      "completed": false
+    },
+    {
+      "quantity": "8",
+      "item": "Hip Purlins",
+      "completed": false
+    },
+    {
+      "quantity": "8",
+      "item": "Uprights",
+      "completed": false
+    },
+    {
+      "quantity": "9",
+      "item": "20' Perimeter",
+      "completed": false
+    },
+    {
+      "quantity": "6",
+      "item": "20' Purlins",
+      "completed": false
+    },
+    {
+      "quantity": "6",
+      "item": "10' Purlins",
+      "completed": false
+    },
+    {
+      "quantity": "10",
+      "item": "Corner Braces",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Cross Braces",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "40' x 20' End Tops",
+      "completed": false
+    },
+    {
+      "quantity": "3",
+      "item": "40' x 20' Mid Tops",
+      "completed": false
+    },
+    {
+      "quantity": "3",
+      "item": "Push bars",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Spacers",
+      "completed": false
+    },
+    {
+      "quantity": "22",
+      "item": "Concrete Blocks",
+      "completed": false
+    },
+    {
+      "quantity": "14",
+      "item": "Navi Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Spray Paint/Chalk",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Measuring Tape",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "*Jacks",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Tarp",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Ladder",
+      "completed": false
+    }
+  ],
+  "tags": "40x100, hip, 40x100 hip, 40x100 navi, 40x100 navi, 40 x 100 navi"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e35"
+  },
+  "id": 45,
+  "product": "40 x 120 Navi-Trac (Gable)",
+  "price": 4200,
+  "size": 4800,
+  "category": "Navi Trac",
+  "image": "https://i0.wp.com/partysafariohio.com/wp-content/uploads/2017/01/NaviFlats2.jpg?resize=300%2C169&ssl=1",
+  "parts": [
+    {
+      "quantity": "14",
+      "item": "8' Legs",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Tall Legs",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Gable End Uprights",
+      "completed": false
+    },
+    {
+      "quantity": "10",
+      "item": "Uprights",
+      "completed": false
+    },
+    {
+      "quantity": "18",
+      "item": "20' Perimeter",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "15' Perimeter",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "10' Perimeter",
+      "completed": false
+    },
+    {
+      "quantity": "12",
+      "item": "20' Purlins",
+      "completed": false
+    },
+    {
+      "quantity": "12",
+      "item": "10' Purlins",
+      "completed": false
+    },
+    {
+      "quantity": "5",
+      "item": "Cross Braces",
+      "completed": false
+    },
+    {
+      "quantity": "10",
+      "item": "Corner Braces",
+      "completed": false
+    },
+    {
+      "quantity": "6",
+      "item": "40' x 20' Mid Tops",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "40' Gable Tops",
+      "completed": false
+    },
+    {
+      "quantity": "3",
+      "item": "Push bars",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Spacers",
+      "completed": false
+    },
+    {
+      "quantity": "26",
+      "item": "Concrete Blocks",
+      "completed": false
+    },
+    {
+      "quantity": "18",
+      "item": "Navi Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Spray Paint/Chalk",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Measuring Tape",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Tarp",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "*Ladders",
+      "completed": false
+    }
+  ],
+  "tags": "40x120, gable, 40x120 gable, 40x120 navi, 40x120 navi, 40 x 120 navi"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e39"
+  },
+  "id": 49,
+  "product": "10 x 20 Festival",
+  "price": 205,
+  "size": 200,
+  "category": "Festival",
+  "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/10x20.png",
+  "parts": [
+    {
+      "quantity": "6",
+      "item": "Legs (Black)",
+      "completed": false
+    },
+    {
+      "quantity": "7",
+      "item": "Perimeter (White)",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Center Pole",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "Top",
+      "completed": false
+    }
+  ],
+  "tags": "10x20"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e50"
+  },
+  "id": 72,
+  "product": "40 x 80 Pole Tent",
+  "price": 2400,
+  "size": 3200,
+  "category": "Pole/Century",
+  "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/40x80Pole.png",
+  "parts": [
+    {
+      "quantity": "36",
+      "item": "7' Legs",
+      "completed": false
+    },
+    {
+      "quantity": "16",
+      "item": "Big Stakes",
+      "completed": false
+    },
+    {
+      "quantity": "16",
+      "item": "Big Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "24",
+      "item": "Small Stakes",
+      "completed": false
+    },
+    {
+      "quantity": "24",
+      "item": "Small Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "3",
+      "item": "18' Center Poles",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "40' x 20' End Tops",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "40' x 20' Mid Tops",
+      "completed": false
+    },
+    {
+      "quantity": "3",
+      "item": "Dumbbells",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Pole Horses",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "Hammer/Pounder",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Measuring Tape",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Spray Paint",
+      "completed": false
+    },
+    {
+      "quantity": "36",
+      "item": "*Wood Squares",
+      "completed": false
+    }
+  ],
+  "tags": "40x80 pole tent, 40 x 80, 40x80, 40 x 80 pole tent, Pole Tent"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e4c"
+  },
+  "id": 68,
+  "product": "20 x 24 Stage",
+  "price": 300,
+  "size": 480,
+  "category": "Stage",
+  "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/20x24.png",
+  "parts": [
+    {
+      "quantity": "15",
+      "item": "Stage Panels",
+      "completed": false
+    },
+    {
+      "quantity": "6",
+      "item": "Z-Legs",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Single Locators",
+      "completed": false
+    },
+    {
+      "quantity": "12",
+      "item": "Dual Locators",
+      "completed": false
+    },
+    {
+      "quantity": "8",
+      "item": "Quad Locators",
+      "completed": false
+    }
+  ],
+  "tags": "20x24 stage, 20x24, stage, Stage"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e09"
+  },
+  "id": 2,
+  "product": "20 x 40 Century",
+  "price": 520,
+  "size": 800,
+  "category": "Pole/Century",
+  "image": "https://i2.wp.com/partysafariohio.com/wp-content/uploads/2017/01/20x40Edgewater.jpg?resize=300%2C169&ssl=1",
+  "parts": [
+    {
+      "quantity": "12",
+      "item": "7' Legs",
+      "completed": false
+    },
+    {
+      "quantity": "16",
+      "item": "Stakes",
+      "completed": false
+    },
+    {
+      "quantity": "16",
+      "item": "Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "15' Center Pole",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "Top",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "Hammer/Pounder",
+      "completed": false
+    },
+    {
+      "quantity": "14",
+      "item": "Wood Squares",
+      "completed": false
+    }
+  ],
+  "tags": "20x40, 20 x 40, century, 20x40 century, 20 x 40 century"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e0f"
+  },
+  "id": 8,
+  "product": "30 x 105 Century",
+  "price": 2205,
+  "size": 3150,
+  "category": "Pole/Century",
+  "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/30x105Century.jpg",
+  "parts": [
+    {
+      "quantity": "36",
+      "item": "8' Legs",
+      "completed": false
+    },
+    {
+      "quantity": "22",
+      "item": "Big Stakes",
+      "completed": false
+    },
+    {
+      "quantity": "22",
+      "item": "Big Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "18",
+      "item": "Small Stakes",
+      "completed": false
+    },
+    {
+      "quantity": "18",
+      "item": "Small Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "6",
+      "item": "18' Center Poles",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "30' x 15' End Tops",
+      "completed": false
+    },
+    {
+      "quantity": "5",
+      "item": "30' x 15' Mid Top",
+      "completed": false
+    },
+    {
+      "quantity": "6",
+      "item": "Dumbbells",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Pole Horses",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "Hammer/Pounder",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Measuring Tape",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Spray Paint",
+      "completed": false
+    },
+    {
+      "quantity": "42",
+      "item": "Wood Squares",
+      "completed": false
+    }
+  ],
+  "tags": "30x105, century, 30 x 105, 30x105 century, 30 x 105 century, Century"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e07"
+  },
+  "id": 0,
+  "product": "20 x 20 Century",
+  "price": 260,
+  "size": 400,
+  "category": "Pole/Century",
+  "image": "https://i1.wp.com/partysafariohio.com/wp-content/uploads/2017/01/20x20Cent.jpg?resize=300%2C169&ssl=1",
+  "parts": [
+    {
+      "quantity": "8",
+      "item": "7' Legs",
+      "completed": false
+    },
+    {
+      "quantity": "12",
+      "item": "Stakes",
+      "completed": false
+    },
+    {
+      "quantity": "12",
+      "item": "Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "15' Center Pole",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "Top",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "Hammer/Pounder",
+      "completed": false
+    },
+    {
+      "quantity": "9",
+      "item": "Wood Squares",
+      "completed": false
+    }
+  ],
+  "tags": "20x20, 20 x 20, century, Century, 20x20 century, 20 x 20 century"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e40"
+  },
+  "id": 56,
+  "product": "10 x 90 Festival",
+  "price": 905,
+  "size": 900,
+  "category": "Festival",
+  "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/10x90.png",
+  "parts": [
+    {
+      "quantity": "20",
+      "item": "Legs (Black)",
+      "completed": false
+    },
+    {
+      "quantity": "28",
+      "item": "Perimeter (White)",
+      "completed": false
+    },
+    {
+      "quantity": "9",
+      "item": "Center Pole",
+      "completed": false
+    },
+    {
+      "quantity": "16",
+      "item": "'T' Castings",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "End Tops",
+      "completed": false
+    },
+    {
+      "quantity": "7",
+      "item": "Mid Tops",
+      "completed": false
+    }
+  ],
+  "tags": "10x90"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e08"
+  },
+  "id": 1,
+  "product": "20 x 30 Century",
+  "price": 390,
+  "size": 600,
+  "category": "Pole/Century",
+  "image": "https://i2.wp.com/partysafariohio.com/wp-content/uploads/2017/01/20x30Cent.jpg?resize=300%2C169&ssl=1",
+  "parts": [
+    {
+      "quantity": "10",
+      "item": "7' Legs",
+      "completed": false
+    },
+    {
+      "quantity": "14",
+      "item": "Stakes",
+      "completed": false
+    },
+    {
+      "quantity": "14",
+      "item": "Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "15' Center Pole",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "Top",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "Hammer/Pounder",
+      "completed": false
+    },
+    {
+      "quantity": "12",
+      "item": "Wood Squares",
+      "completed": false
+    }
+  ],
+  "tags": "20x30, 20 x 30, century, 20x30 century, 20 x 30 century"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e2e"
+  },
+  "id": 38,
+  "product": "40 x 60 Navi-Trac (Hip)",
+  "price": 2100,
+  "size": 2400,
+  "category": "Navi Trac",
+  "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/40x60_hip.jpg",
+  "parts": [
+    {
+      "quantity": "10",
+      "item": "8' Legs",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Diag. Upper Splice",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Diag. Lower Splice",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Hip End Uprights",
+      "completed": false
+    },
+    {
+      "quantity": "8",
+      "item": "Hip Perimeter",
+      "completed": false
+    },
+    {
+      "quantity": "8",
+      "item": "Hip Purlins",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Uprights",
+      "completed": false
+    },
+    {
+      "quantity": "3",
+      "item": "20' Perimeter",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "20' Purlins",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "10' Purlins",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Cross Braces",
+      "completed": false
+    },
+    {
+      "quantity": "6",
+      "item": "Corner Braces",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "40' x 20' End Tops",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "40' x 20' Mid Top",
+      "completed": false
+    },
+    {
+      "quantity": "3",
+      "item": "Push bars",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Spacers",
+      "completed": false
+    },
+    {
+      "quantity": "18",
+      "item": "Concrete Blocks",
+      "completed": false
+    },
+    {
+      "quantity": "10",
+      "item": "Navi Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Spray Paint/Chalk",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Measuring Tape",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "*Jacks",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Tarp",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Ladder",
+      "completed": false
+    }
+  ],
+  "tags": "40x60, hip, 40x60 hip, 40x60 navi, 40x60 navi, 40 x 60 navi"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e13"
+  },
+  "id": 12,
+  "product": "40 x 100 Century",
+  "price": 3000,
+  "size": 4000,
+  "category": "Pole/Century",
+  "image": "https://i2.wp.com/partysafariohio.com/wp-content/uploads/2017/01/40x100Pole.jpg?resize=300%2C169&ssl=1",
+  "parts": [
+    {
+      "quantity": "28",
+      "item": "8' Legs",
+      "completed": false
+    },
+    {
+      "quantity": "36",
+      "item": "Big Stakes",
+      "completed": false
+    },
+    {
+      "quantity": "18",
+      "item": "Big Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "18",
+      "item": "Small Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "22' Center Poles",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "40' x 20' End Tops",
+      "completed": false
+    },
+    {
+      "quantity": "3",
+      "item": "40' x 20' Mid Top",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Dumbbells",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Pole Horses",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "Hammer/Pounder",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Measuring Tape",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Spray Paint",
+      "completed": false
+    },
+    {
+      "quantity": "32",
+      "item": "Wood Squares",
+      "completed": false
+    }
+  ],
+  "tags": "40x100, century, 40 x 100, 40x100 century, 40 x 100 century, Century"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e0d"
+  },
+  "id": 6,
+  "product": "30 x 75 Century",
+  "price": 1575,
+  "size": 2250,
+  "category": "Pole/Century",
+  "image": "https://i1.wp.com/partysafariohio.com/wp-content/uploads/2017/02/30x75Cent.jpg?resize=300%2C169&ssl=1",
+  "parts": [
+    {
+      "quantity": "28",
+      "item": "8' Legs",
+      "completed": false
+    },
+    {
+      "quantity": "18",
+      "item": "Big Stakes",
+      "completed": false
+    },
+    {
+      "quantity": "18",
+      "item": "Big Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "14",
+      "item": "Small Stakes",
+      "completed": false
+    },
+    {
+      "quantity": "14",
+      "item": "Small Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "18' Center Poles",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "30' x 15' End Tops",
+      "completed": false
+    },
+    {
+      "quantity": "3",
+      "item": "30' x 15' Mid Top",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Dumbbells",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Pole Horses",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "Hammer/Pounder",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Measuring Tape",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Spray Paint",
+      "completed": false
+    },
+    {
+      "quantity": "32",
+      "item": "Wood Squares",
+      "completed": false
+    }
+  ],
+  "tags": "30x75, century, 30 x 75, 30x75 century, 30 x 75 century, Century"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e11"
+  },
+  "id": 10,
+  "product": "40 x 60 Century",
+  "price": 1800,
+  "size": 2400,
+  "category": "Pole/Century",
+  "image": "https://i2.wp.com/partysafariohio.com/wp-content/uploads/2017/01/40x60Pole.jpg?resize=300%2C169&ssl=1",
+  "parts": [
+    {
+      "quantity": "20",
+      "item": "8' Legs",
+      "completed": false
+    },
+    {
+      "quantity": "28",
+      "item": "Big Stakes",
+      "completed": false
+    },
+    {
+      "quantity": "14",
+      "item": "Big Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "14",
+      "item": "Small Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "22' Center Poles",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "40' x 20' End Tops",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "40' x 20' Mid Top",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Dumbbells",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Pole Horses",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "Hammer/Pounder",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Measuring Tape",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Spray Paint",
+      "completed": false
+    },
+    {
+      "quantity": "21",
+      "item": "Wood Squares",
+      "completed": false
+    }
+  ],
+  "tags": "40x60, century, 40 x 60, 40x60 century, 40 x 60 century, Century"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e12"
+  },
+  "id": 11,
+  "product": "40 x 80 Century",
+  "price": 2400,
+  "size": 3200,
+  "category": "Pole/Century",
+  "image": "https://i2.wp.com/partysafariohio.com/wp-content/uploads/2017/01/40x80PoleGrass.jpg?resize=300%2C169&ssl=1",
+  "parts": [
+    {
+      "quantity": "24",
+      "item": "8' Legs",
+      "completed": false
+    },
+    {
+      "quantity": "32",
+      "item": "Big Stakes",
+      "completed": false
+    },
+    {
+      "quantity": "16",
+      "item": "Big Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "16",
+      "item": "Small Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "3",
+      "item": "22' Center Poles",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "40' x 20' End Tops",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "40' x 20' Mid Top",
+      "completed": false
+    },
+    {
+      "quantity": "3",
+      "item": "Dumbbells",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Pole Horses",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "Hammer/Pounder",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Measuring Tape",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Spray Paint",
+      "completed": false
+    },
+    {
+      "quantity": "27",
+      "item": "Wood Squares",
+      "completed": false
+    }
+  ],
+  "tags": "40x80, century, 40 x 80, 40x80 century, 40 x 80 century, Century"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e18"
+  },
+  "id": 17,
+  "product": "60 x 120 Twin Peak",
+  "price": 4680,
+  "size": 7200,
+  "category": "Pole/Century",
+  "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/60x120Twin.jpg",
+  "parts": [
+    {
+      "quantity": "36",
+      "item": "8' Legs",
+      "completed": false
+    },
+    {
+      "quantity": "72",
+      "item": "Big Stakes",
+      "completed": false
+    },
+    {
+      "quantity": "56",
+      "item": "Big Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "16",
+      "item": "Stake Plates",
+      "completed": false
+    },
+    {
+      "quantity": "6",
+      "item": "Center Poles",
+      "completed": false
+    },
+    {
+      "quantity": "6",
+      "item": "Center Pole Wheels",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "60' x 30' End Tops",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "60' x 30' Mid Top",
+      "completed": false
+    },
+    {
+      "quantity": "6",
+      "item": "Dumbbells",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Pole Horses",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Hammer/Pounder",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Measuring Tape",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Spray Paint",
+      "completed": false
+    },
+    {
+      "quantity": "34",
+      "item": "Wood Squares",
+      "completed": false
+    }
+  ],
+  "tags": "60x120, century, 60 x 120, 60x120 century, 60 x 120 century, Century, twin peak, 60x120 twin peak"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e19"
+  },
+  "id": 18,
+  "product": "30 x 30 Navi-Lite (Hip)",
+  "price": 650,
+  "size": 900,
+  "category": "Navi Trac",
+  "image": "https://i1.wp.com/partysafariohio.com/wp-content/uploads/2017/01/30x30Navi.jpg?resize=300%2C169&ssl=1",
+  "parts": [
+    {
+      "quantity": "8",
+      "item": "8' Legs",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Diag. Corner",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Hip End Uprights",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Uprights",
+      "completed": false
+    },
+    {
+      "quantity": "8",
+      "item": "15' Perimeter",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "Cross Brace",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "30' x 15' End Tops",
+      "completed": false
+    },
+    {
+      "quantity": "12",
+      "item": "Concrete Blocks",
+      "completed": false
+    },
+    {
+      "quantity": "8",
+      "item": "Navi Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "*Jacks",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Tarp",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Ladder",
+      "completed": false
+    }
+  ],
+  "tags": "30x30, hip, 30x30 hip, 30x30 navi, 30x30 navi-lite, 30 x 30 navi lite"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e25"
+  },
+  "id": 29,
+  "product": "30 x 70 Navi-Lite (Gable)",
+  "price": 1300,
+  "size": 2100,
+  "category": "Navi Trac",
+  "image": "https://i0.wp.com/partysafariohio.com/wp-content/uploads/2017/01/30x60.jpg?resize=300%2C169&ssl=1",
+  "parts": [
+    {
+      "quantity": "12",
+      "item": "8' Legs",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Tall Legs",
+      "completed": false
+    },
+    {
+      "quantity": "6",
+      "item": "Gable End Perim",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "End Uprights",
+      "completed": false
+    },
+    {
+      "quantity": "8",
+      "item": "Uprights",
+      "completed": false
+    },
+    {
+      "quantity": "8",
+      "item": "15' Perimeter",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "10' Perimeter",
+      "completed": false
+    },
+    {
+      "quantity": "8",
+      "item": "15' Purlins",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "10' Purlins",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "15' Crossbars",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "10' Crossbar",
+      "completed": false
+    },
+    {
+      "quantity": "6",
+      "item": "Cross Braces",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "30' x 15' Mid Tops",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "30' x 10' Mid Top",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "30' Gable End Tops",
+      "completed": false
+    },
+    {
+      "quantity": "20",
+      "item": "Concrete Blocks",
+      "completed": false
+    },
+    {
+      "quantity": "16",
+      "item": "Navi Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "3",
+      "item": "*Jacks",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Tarp",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Ladder",
+      "completed": false
+    }
+  ],
+  "tags": "30x70, gable, 30x70 gable, 30x70 navi, 30x70 navi-lite, 30 x 70 navi lite, 30 x 70 gable"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e1b"
+  },
+  "id": 20,
+  "product": "30 x 40 Navi-Lite (Hip)",
+  "price": 650,
+  "size": 1200,
+  "category": "Navi Trac",
+  "image": "https://i1.wp.com/partysafariohio.com/wp-content/uploads/2017/01/30x30Navi.jpg?resize=300%2C169&ssl=1",
+  "parts": [
+    {
+      "quantity": "10",
+      "item": "8' Legs",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Diag. Corner",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Hip End Uprights",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Uprights",
+      "completed": false
+    },
+    {
+      "quantity": "8",
+      "item": "15' Perimeter",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "10' Perimeter",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "10' Crossbar",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Cross Braces",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "30' x 15' End Tops",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "30' x 10' Mid Top",
+      "completed": false
+    },
+    {
+      "quantity": "14",
+      "item": "Concrete Blocks",
+      "completed": false
+    },
+    {
+      "quantity": "10",
+      "item": "Navi Ratchets"
+    },
+    {
+      "quantity": "2",
+      "item": "*Jacks",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Tarp",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Ladder",
+      "completed": false
+    }
+  ],
+  "tags": "30x40, hip, 30x40 hip, 30x40 navi, 30x40 navi-lite, 30 x 40 navi lite"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e27"
+  },
+  "id": 31,
+  "product": "30 x 75 Navi-Lite (Gable)",
+  "price": 1630,
+  "size": 2250,
+  "category": "Navi Trac",
+  "image": "https://i0.wp.com/partysafariohio.com/wp-content/uploads/2018/01/30x75NaviGable.jpg?resize=300%2C169&ssl=1",
+  "parts": [
+    {
+      "quantity": "12",
+      "item": "8' Legs",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Tall Legs",
+      "completed": false
+    },
+    {
+      "quantity": "6",
+      "item": "Gable End Perim",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "End Uprights",
+      "completed": false
+    },
+    {
+      "quantity": "8",
+      "item": "Uprights",
+      "completed": false
+    },
+    {
+      "quantity": "10",
+      "item": "15' Perimeter",
+      "completed": false
+    },
+    {
+      "quantity": "10",
+      "item": "15' Purlins",
+      "completed": false
+    },
+    {
+      "quantity": "5",
+      "item": "15' Crossbars",
+      "completed": false
+    },
+    {
+      "quantity": "6",
+      "item": "Cross Braces",
+      "completed": false
+    },
+    {
+      "quantity": "5",
+      "item": "30' x 15' Mid Tops",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "30' Gable End Tops",
+      "completed": false
+    },
+    {
+      "quantity": "20",
+      "item": "Concrete Blocks",
+      "completed": false
+    },
+    {
+      "quantity": "16",
+      "item": "Navi Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "*Jacks",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Tarp",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Ladder",
+      "completed": false
+    }
+  ],
+  "tags": "30x75, gable, 30x75 gable, 30x75 navi, 30x75 navi-lite, 30 x 75 navi lite, 30 x 75 gable"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e36"
+  },
+  "id": 46,
+  "product": "40 x 140 Navi-Trac (Hip)",
+  "price": 4900,
+  "size": 5600,
+  "category": "Navi Trac",
+  "image": "https://i0.wp.com/partysafariohio.com/wp-content/uploads/2017/02/40x140NaviScaled.jpg?resize=300%2C169&ssl=1",
+  "parts": [
+    {
+      "quantity": "18",
+      "item": "8' Legs",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Diag. Upper Splice",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Diag. Lower Splice",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Hip End Uprights",
+      "completed": false
+    },
+    {
+      "quantity": "8",
+      "item": "Hip Perimeter",
+      "completed": false
+    },
+    {
+      "quantity": "8",
+      "item": "Hip Purlins",
+      "completed": false
+    },
+    {
+      "quantity": "12",
+      "item": "Uprights",
+      "completed": false
+    },
+    {
+      "quantity": "15",
+      "item": "20' Perimeter",
+      "completed": false
+    },
+    {
+      "quantity": "10",
+      "item": "20' Purlins",
+      "completed": false
+    },
+    {
+      "quantity": "10",
+      "item": "10' Purlins",
+      "completed": false
+    },
+    {
+      "quantity": "14",
+      "item": "Corner Braces",
+      "completed": false
+    },
+    {
+      "quantity": "6",
+      "item": "Cross Braces",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "40' x 20' End Tops",
+      "completed": false
+    },
+    {
+      "quantity": "5",
+      "item": "40' x 20' Mid Tops",
+      "completed": false
+    },
+    {
+      "quantity": "3",
+      "item": "Push bars",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Spacers",
+      "completed": false
+    },
+    {
+      "quantity": "26",
+      "item": "Concrete Blocks",
+      "completed": false
+    },
+    {
+      "quantity": "18",
+      "item": "Navi Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Spray Paint/Chalk",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Measuring Tape",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "*Jacks",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Tarp",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Ladder",
+      "completed": false
+    }
+  ],
+  "tags": "40x140, hip, 40x140 hip, 40x140 navi, 40x140 navi, 40 x 140 navi"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e3d"
+  },
+  "id": 53,
+  "product": "10 x 60 Festival",
+  "price": 605,
+  "size": 600,
+  "category": "Festival",
+  "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/10x60.png",
+  "parts": [
+    {
+      "quantity": "14",
+      "item": "Legs (Black)",
+      "completed": false
+    },
+    {
+      "quantity": "19",
+      "item": "Perimeter (White)",
+      "completed": false
+    },
+    {
+      "quantity": "6",
+      "item": "Center Pole",
+      "completed": false
+    },
+    {
+      "quantity": "10",
+      "item": "'T' Castings",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "End Tops",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Mid Tops",
+      "completed": false
+    }
+  ],
+  "tags": "10x60"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e3e"
+  },
+  "id": 54,
+  "product": "10 x 70 Festival",
+  "price": 705,
+  "size": 700,
+  "category": "Festival",
+  "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/10x70.png",
+  "parts": [
+    {
+      "quantity": "16",
+      "item": "Legs (Black)",
+      "completed": false
+    },
+    {
+      "quantity": "22",
+      "item": "Perimeter (White)",
+      "completed": false
+    },
+    {
+      "quantity": "7",
+      "item": "Center Pole",
+      "completed": false
+    },
+    {
+      "quantity": "12",
+      "item": "'T' Castings",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "End Tops",
+      "completed": false
+    },
+    {
+      "quantity": "5",
+      "item": "Mid Tops",
+      "completed": false
+    }
+  ],
+  "tags": "10x70"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e49"
+  },
+  "id": 65,
+  "product": "16 x 16 Stage",
+  "price": 300,
+  "size": 256,
+  "category": "Stage",
+  "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/16x16.png",
+  "parts": [
+    {
+      "quantity": "8",
+      "item": "Stage Panels",
+      "completed": false
+    },
+    {
+      "quantity": "6",
+      "item": "Z-Legs",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Single Locators",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Dual Locators",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Dual-Dual Locators",
+      "completed": false
+    },
+    {
+      "quantity": "3",
+      "item": "Dual-Quad Locators",
+      "completed": false
+    }
+  ],
+  "tags": "16x16 stage, 16x16, stage, Stage"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e56"
+  },
+  "id": 78,
+  "product": "50 x 100 Navi-Trac (Gable)",
+  "price": 3500,
+  "size": 5000,
+  "category": "Navi Trac",
+  "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/50WideDiagram.jpg",
+  "parts": [
+    {
+      "quantity": "12",
+      "item": "8' Legs",
+      "completed": false
+    },
+    {
+      "quantity": "6",
+      "item": "Tall Legs",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Gable Leg Splices",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Gable End Uprights",
+      "completed": false
+    },
+    {
+      "quantity": "8",
+      "item": "Uprights",
+      "completed": false
+    },
+    {
+      "quantity": "12",
+      "item": "Upright Splices",
+      "completed": false
+    },
+    {
+      "quantity": "15",
+      "item": "20' Perimeter",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "15' Perimeter",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "10' Perimeter",
+      "completed": false
+    },
+    {
+      "quantity": "10",
+      "item": "20' Purlins",
+      "completed": false
+    },
+    {
+      "quantity": "10",
+      "item": "10' Purlins",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Cross Braces",
+      "completed": false
+    },
+    {
+      "quantity": "8",
+      "item": "Corner Braces",
+      "completed": false
+    },
+    {
+      "quantity": "5",
+      "item": "50' x 20' Mid Tops",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "50' Gable Tops",
+      "completed": false
+    },
+    {
+      "quantity": "26",
+      "item": "Concrete Blocks",
+      "completed": false
+    },
+    {
+      "quantity": "18",
+      "item": "Navi Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Spray Paint/Chalk",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Measuring Tape",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Tarp",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "*Ladders",
+      "completed": false
+    }
+  ],
+  "tags": "50x100, gable, 50x100 gable, 50x100 navi, 50x100 navi, 50 x 100 navi"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e44"
+  },
+  "id": 60,
+  "product": "8 x 16 Stage",
+  "price": 300,
+  "size": 128,
+  "category": "Stage",
+  "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/8x16.png",
+  "parts": [
+    {
+      "quantity": "4",
+      "item": "Stage Panels",
+      "completed": false
+    },
+    {
+      "quantity": "3",
+      "item": "Z-Legs",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Single Locators",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Dual Locators",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Dual-Dual Locators",
+      "completed": false
+    }
+  ],
+  "tags": "8x16 stage, 8x16, stage, Stage"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e45"
+  },
+  "id": 61,
+  "product": "8 x 20 Stage",
+  "price": 300,
+  "size": 160,
+  "category": "Stage",
+  "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/8x20.png",
+  "parts": [
+    {
+      "quantity": "5",
+      "item": "Stage Panels",
+      "completed": false
+    },
+    {
+      "quantity": "3",
+      "item": "Z-Legs",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Single Locators",
+      "completed": false
+    },
+    {
+      "quantity": "8",
+      "item": "Dual Locators",
+      "completed": false
+    }
+  ],
+  "tags": "8x20 stage, 8x20, stage, Stage"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e16"
+  },
+  "id": 15,
+  "product": "60 x 60 Twin Peak",
+  "price": 2340,
+  "size": 3600,
+  "category": "Pole/Century",
+  "image": "https://i2.wp.com/partysafariohio.com/wp-content/uploads/2017/01/60x60Twin.jpg?resize=300%2C169&ssl=1",
+  "parts": [
+    {
+      "quantity": "24",
+      "item": "8' Legs",
+      "completed": false
+    },
+    {
+      "quantity": "52",
+      "item": "Big Stakes",
+      "completed": false
+    },
+    {
+      "quantity": "44",
+      "item": "Big Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "12",
+      "item": "Stake Plates",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Center Poles",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Center Pole Wheels",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "60' x 30' End Tops",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Dumbbells",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Pole Horses",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Hammer/Pounder",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Measuring Tape",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Spray Paint",
+      "completed": false
+    },
+    {
+      "quantity": "26",
+      "item": "Wood Squares",
+      "completed": false
+    }
+  ],
+  "tags": "60x60, century, 60 x 60, 60x60 century, 60 x 60 century, Century, twin peak, 60 x 60 twin peak"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e1d"
+  },
+  "id": 22,
+  "product": "30 x 45 Navi-Lite (Hip)",
+  "price": 975,
+  "size": 1350,
+  "category": "Navi Trac",
+  "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/30x45_hip.jpg",
+  "parts": [
+    {
+      "quantity": "10",
+      "item": "8' Legs",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Diag. Corner",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Hip End Uprights",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Uprights",
+      "completed": false
+    },
+    {
+      "quantity": "10",
+      "item": "15' Perimeter",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "15' Purlins",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "15' Crossbar",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Cross Braces",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "30' x 15' End Tops",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "30' x 15' Mid Top",
+      "completed": false
+    },
+    {
+      "quantity": "14",
+      "item": "Concrete Blocks",
+      "completed": false
+    },
+    {
+      "quantity": "10",
+      "item": "Navi Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "*Jacks",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Tarp",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Ladder",
+      "completed": false
+    }
+  ],
+  "tags": "30x45, hip, 30x45 hip, 30x45 navi, 30x45 navi-lite, 30 x 45 navi lite"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e29"
+  },
+  "id": 33,
+  "product": "30 x 80 Navi-Lite (Gable)",
+  "price": 1945,
+  "size": 2400,
+  "category": "Navi Trac",
+  "image": "https://i2.wp.com/partysafariohio.com/wp-content/uploads/2017/11/30x90NaviLiteWeb.jpg?resize=300%2C169&ssl=1",
+  "parts": [
+    {
+      "quantity": "14",
+      "item": "8' Legs",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Tall Legs",
+      "completed": false
+    },
+    {
+      "quantity": "6",
+      "item": "Gable End Perim",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "End Uprights",
+      "completed": false
+    },
+    {
+      "quantity": "10",
+      "item": "Uprights",
+      "completed": false
+    },
+    {
+      "quantity": "8",
+      "item": "15' Perimeter",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "10' Perimeter",
+      "completed": false
+    },
+    {
+      "quantity": "8",
+      "item": "15' Purlins",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "10' Purlins",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "15' Crossbars",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "10' Crossbars",
+      "completed": false
+    },
+    {
+      "quantity": "6",
+      "item": "Cross Braces",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "30' x 15' Mid Tops",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "30' x 10' Mid Top",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "30' Gable End Tops",
+      "completed": false
+    },
+    {
+      "quantity": "22",
+      "item": "Concrete Blocks",
+      "completed": false
+    },
+    {
+      "quantity": "18",
+      "item": "Navi Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "*Jacks",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Tarp",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Ladder",
+      "completed": false
+    }
+  ],
+  "tags": "30x80, gable, 30x80 gable, 30x80 navi, 30x80 navi-lite, 30 x 80 navi lite, 30 x 80 gable"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e33"
+  },
+  "id": 43,
+  "product": "40 x 100 Navi-Trac (Gable)",
+  "price": 3500,
+  "size": 4000,
+  "category": "Navi Trac",
+  "image": "https://i2.wp.com/partysafariohio.com/wp-content/uploads/2017/01/4x1Navi.jpg?resize=300%2C169&ssl=1",
+  "parts": [
+    {
+      "quantity": "12",
+      "item": "8' Legs",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Tall Legs",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Gable End Uprights",
+      "completed": false
+    },
+    {
+      "quantity": "8",
+      "item": "Uprights",
+      "completed": false
+    },
+    {
+      "quantity": "15",
+      "item": "20' Perimeter",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "15' Perimeter",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "10' Perimeter",
+      "completed": false
+    },
+    {
+      "quantity": "10",
+      "item": "20' Purlins",
+      "completed": false
+    },
+    {
+      "quantity": "10",
+      "item": "10' Purlins",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Cross Braces",
+      "completed": false
+    },
+    {
+      "quantity": "8",
+      "item": "Corner Braces",
+      "completed": false
+    },
+    {
+      "quantity": "5",
+      "item": "40' x 20' Mid Tops",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "40' Gable Tops",
+      "completed": false
+    },
+    {
+      "quantity": "3",
+      "item": "Push bars",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Spacers",
+      "completed": false
+    },
+    {
+      "quantity": "24",
+      "item": "Concrete Blocks",
+      "completed": false
+    },
+    {
+      "quantity": "16",
+      "item": "Navi Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Spray Paint/Chalk",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Measuring Tape",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Tarp",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "*Ladders",
+      "completed": false
+    }
+  ],
+  "tags": "40x100, gable, 40x100 gable, 40x100 navi, 40x100 navi, 40 x 100 navi"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e3b"
+  },
+  "id": 51,
+  "product": "10 x 40 Festival",
+  "price": 405,
+  "size": 400,
+  "category": "Festival",
+  "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/10x40.png",
+  "parts": [
+    {
+      "quantity": "10",
+      "item": "Legs (Black)",
+      "completed": false
+    },
+    {
+      "quantity": "13",
+      "item": "Perimeter (White)",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Center Pole",
+      "completed": false
+    },
+    {
+      "quantity": "6",
+      "item": "'T' Castings",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "End Tops",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Mid Tops",
+      "completed": false
+    }
+  ],
+  "tags": "10x40"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e42"
+  },
+  "id": 58,
+  "product": "8 x 8 Stage",
+  "price": 300,
+  "size": 64,
+  "category": "Stage",
+  "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/8x8.png",
+  "parts": [
+    {
+      "quantity": "2",
+      "item": "Stage Panels",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Z-Legs",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Single Locators",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Dual-Dual Locators",
+      "completed": false
+    }
+  ],
+  "tags": "8x8 stage, 8x8, stage, Stage"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e4d"
+  },
+  "id": 69,
+  "product": "20 x 32 Stage",
+  "price": 300,
+  "size": 640,
+  "category": "Stage",
+  "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/20x32.png",
+  "parts": [
+    {
+      "quantity": "20",
+      "item": "Stage Panels",
+      "completed": false
+    },
+    {
+      "quantity": "9",
+      "item": "Z-Legs",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Single Locators",
+      "completed": false
+    },
+    {
+      "quantity": "12",
+      "item": "Dual Locators",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Dual-Dual Locators",
+      "completed": false
+    },
+    {
+      "quantity": "8",
+      "item": "Quad Locators",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Dual-Quad Locators",
+      "completed": false
+    }
+  ],
+  "tags": "20x32 stage, 20x32, stage, Stage"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e51"
+  },
+  "id": 73,
+  "product": "40 x 100 Pole Tent",
+  "price": 2800,
+  "size": 4000,
+  "category": "Pole/Century",
+  "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/40x100Pole.png",
+  "parts": [
+    {
+      "quantity": "42",
+      "item": "7' Legs",
+      "completed": false
+    },
+    {
+      "quantity": "18",
+      "item": "Big Stakes",
+      "completed": false
+    },
+    {
+      "quantity": "18",
+      "item": "Big Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "28",
+      "item": "Small Stakes",
+      "completed": false
+    },
+    {
+      "quantity": "28",
+      "item": "Small Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "18' Center Poles",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "40' x 20' End Tops",
+      "completed": false
+    },
+    {
+      "quantity": "3",
+      "item": "40' x 20' Mid Tops",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Dumbbells",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Pole Horses",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "Hammer/Pounder",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Measuring Tape",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Spray Paint",
+      "completed": false
+    },
+    {
+      "quantity": "42",
+      "item": "*Wood Squares",
+      "completed": false
+    }
+  ],
+  "tags": "40x100 pole tent, 40 x 100, 40x100, 40 x 100 pole tent, Pole Tent"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e0a"
+  },
+  "id": 3,
+  "product": "30 x 30 Century",
+  "price": 630,
+  "size": 900,
+  "category": "Pole/Century",
+  "image": "https://i0.wp.com/partysafariohio.com/wp-content/uploads/2017/01/30x30CentBackyard.jpg?resize=300%2C169&ssl=1",
+  "parts": [
+    {
+      "quantity": "16",
+      "item": "8' Legs",
+      "completed": false
+    },
+    {
+      "quantity": "12",
+      "item": "Big Stakes",
+      "completed": false
+    },
+    {
+      "quantity": "12",
+      "item": "Big Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "8",
+      "item": "Small Stakes",
+      "completed": false
+    },
+    {
+      "quantity": "8",
+      "item": "Small Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "18' Center Pole",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "30' x 15' End Tops",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "Dumbbell",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "Pole Horse",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "Hammer/Pounder",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Measuring Tape",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Spray Paint",
+      "completed": false
+    },
+    {
+      "quantity": "17",
+      "item": "Wood Squares",
+      "completed": false
+    }
+  ],
+  "tags": "30x30, century, 30 x 30, 30x30 century"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e34"
+  },
+  "id": 44,
+  "product": "40 x 120 Navi-Trac (Hip)",
+  "price": 4200,
+  "size": 4800,
+  "category": "Navi Trac",
+  "image": "https://i0.wp.com/partysafariohio.com/wp-content/uploads/2017/01/NaviFlats2.jpg?resize=300%2C169&ssl=1",
+  "parts": [
+    {
+      "quantity": "16",
+      "item": "8' Legs",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Diag. Upper Splice",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Diag. Lower Splice",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Hip End Uprights",
+      "completed": false
+    },
+    {
+      "quantity": "8",
+      "item": "Hip Perimeter",
+      "completed": false
+    },
+    {
+      "quantity": "8",
+      "item": "Hip Purlins",
+      "completed": false
+    },
+    {
+      "quantity": "10",
+      "item": "Uprights",
+      "completed": false
+    },
+    {
+      "quantity": "12",
+      "item": "20' Perimeter",
+      "completed": false
+    },
+    {
+      "quantity": "8",
+      "item": "20' Purlins",
+      "completed": false
+    },
+    {
+      "quantity": "8",
+      "item": "10' Purlins",
+      "completed": false
+    },
+    {
+      "quantity": "12",
+      "item": "Corner Braces",
+      "completed": false
+    },
+    {
+      "quantity": "5",
+      "item": "Cross Braces",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "40' x 20' End Tops",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "40' x 20' Mid Tops",
+      "completed": false
+    },
+    {
+      "quantity": "3",
+      "item": "Push bars",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Spacers",
+      "completed": false
+    },
+    {
+      "quantity": "22",
+      "item": "Concrete Blocks",
+      "completed": false
+    },
+    {
+      "quantity": "16",
+      "item": "Navi Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Spray Paint/Chalk",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Measuring Tape",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "*Jacks",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Tarp",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Ladder",
+      "completed": false
+    }
+  ],
+  "tags": "40x120, hip, 40x120 hip, 40x120 navi, 40x120 navi, 40 x 120 navi"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e4b"
+  },
+  "id": 67,
+  "product": "16 x 24 Stage",
+  "price": 300,
+  "size": 384,
+  "category": "Stage",
+  "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/16x24.png",
+  "parts": [
+    {
+      "quantity": "12",
+      "item": "Stage Panels",
+      "completed": false
+    },
+    {
+      "quantity": "8",
+      "item": "Z-Legs",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Single Locators",
+      "completed": false
+    },
+    {
+      "quantity": "8",
+      "item": "Dual Locators",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Dual-Dual Locators",
+      "completed": false
+    },
+    {
+      "quantity": "5",
+      "item": "Dual-Quad Locators",
+      "completed": false
+    }
+  ],
+  "tags": "16x24 stage, 16x24, stage, Stage"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e52"
+  },
+  "id": 74,
+  "product": "40 x 120 Pole Tent",
+  "price": 3200,
+  "size": 4400,
+  "category": "Pole/Century",
+  "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/40x120Pole.png",
+  "parts": [
+    {
+      "quantity": "48",
+      "item": "7' Legs",
+      "completed": false
+    },
+    {
+      "quantity": "20",
+      "item": "Big Stakes",
+      "completed": false
+    },
+    {
+      "quantity": "20",
+      "item": "Big Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "32",
+      "item": "Small Stakes",
+      "completed": false
+    },
+    {
+      "quantity": "32",
+      "item": "Small Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "5",
+      "item": "18' Center Poles",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "40' x 20' End Tops",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "40' x 20' Mid Tops",
+      "completed": false
+    },
+    {
+      "quantity": "5",
+      "item": "Dumbbells",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Pole Horses",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "Hammer/Pounder",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Measuring Tape",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Spray Paint",
+      "completed": false
+    },
+    {
+      "quantity": "48",
+      "item": "*Wood Squares",
+      "completed": false
+    }
+  ],
+  "tags": "40x120 pole tent, 40 x 120, 40x120, 40 x 120 pole tent, Pole Tent"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e55"
+  },
+  "id": 77,
+  "product": "50 x 80 Navi-Trac (Gable)",
+  "price": 3500,
+  "size": 4000,
+  "category": "Navi Trac",
+  "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/50WideDiagram.jpg",
+  "parts": [
+    {
+      "quantity": "10",
+      "item": "8' Legs",
+      "completed": false
+    },
+    {
+      "quantity": "6",
+      "item": "Tall Legs",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Gable Leg Splices",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Gable End Uprights",
+      "completed": false
+    },
+    {
+      "quantity": "6",
+      "item": "Uprights",
+      "completed": false
+    },
+    {
+      "quantity": "10",
+      "item": "Upright Splices",
+      "completed": false
+    },
+    {
+      "quantity": "12",
+      "item": "20' Perimeter",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "15' Perimeter",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "10' Perimeter",
+      "completed": false
+    },
+    {
+      "quantity": "8",
+      "item": "20' Purlins",
+      "completed": false
+    },
+    {
+      "quantity": "8",
+      "item": "10' Purlins",
+      "completed": false
+    },
+    {
+      "quantity": "3",
+      "item": "Cross Braces",
+      "completed": false
+    },
+    {
+      "quantity": "6",
+      "item": "Corner Braces",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "50' x 20' Mid Tops",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "50' Gable Tops",
+      "completed": false
+    },
+    {
+      "quantity": "24",
+      "item": "Concrete Blocks",
+      "completed": false
+    },
+    {
+      "quantity": "16",
+      "item": "Navi Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Spray Paint/Chalk",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Measuring Tape",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Tarp",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "*Ladders",
+      "completed": false
+    }
+  ],
+  "tags": "50x80, gable, 50x80 gable, 50x80 navi, 50x80 navi, 50 x 80 navi"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e31"
+  },
+  "id": 41,
+  "product": "40 x 80 Navi-Trac (Gable)",
+  "price": 2800,
+  "size": 3200,
+  "category": "Navi Trac",
+  "image": "https://i0.wp.com/partysafariohio.com/wp-content/uploads/2017/01/Navi4x1.jpg?resize=300%2C169&ssl=1",
+  "parts": [
+    {
+      "quantity": "10",
+      "item": "8' Legs",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Tall Legs",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Gable End Uprights",
+      "completed": false
+    },
+    {
+      "quantity": "6",
+      "item": "Uprights",
+      "completed": false
+    },
+    {
+      "quantity": "12",
+      "item": "20' Perimeter",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "15' Perimeter",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "10' Perimeter",
+      "completed": false
+    },
+    {
+      "quantity": "8",
+      "item": "20' Purlins",
+      "completed": false
+    },
+    {
+      "quantity": "8",
+      "item": "10' Purlins",
+      "completed": false
+    },
+    {
+      "quantity": "3",
+      "item": "Cross Braces",
+      "completed": false
+    },
+    {
+      "quantity": "6",
+      "item": "Corner Braces",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "40' x 20' Mid Tops",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "40' Gable Tops",
+      "completed": false
+    },
+    {
+      "quantity": "3",
+      "item": "Push bars",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Spacers",
+      "completed": false
+    },
+    {
+      "quantity": "22",
+      "item": "Concrete Blocks",
+      "completed": false
+    },
+    {
+      "quantity": "14",
+      "item": "Navi Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Spray Paint/Chalk",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Measuring Tape",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Tarp",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "*Ladders",
+      "completed": false
+    }
+  ],
+  "tags": "40x80, gable, 40x80 gable, 40x80 navi, 40x80 navi, 40 x 80 navi"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e3f"
+  },
+  "id": 55,
+  "product": "10 x 80 Festival",
+  "price": 805,
+  "size": 800,
+  "category": "Festival",
+  "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/10x80.png",
+  "parts": [
+    {
+      "quantity": "18",
+      "item": "Legs (Black)",
+      "completed": false
+    },
+    {
+      "quantity": "25",
+      "item": "Perimeter (White)",
+      "completed": false
+    },
+    {
+      "quantity": "8",
+      "item": "Center Pole",
+      "completed": false
+    },
+    {
+      "quantity": "14",
+      "item": "'T' Castings",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "End Tops",
+      "completed": false
+    },
+    {
+      "quantity": "6",
+      "item": "Mid Tops",
+      "completed": false
+    }
+  ],
+  "tags": "10x80"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e23"
+  },
+  "id": 27,
+  "product": "30 x 60 Navi-Lite (Gable)",
+  "price": 1300,
+  "size": 1800,
+  "category": "Navi Trac",
+  "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/30x60_gable.jpg",
+  "parts": [
+    {
+      "quantity": "10",
+      "item": "8' Legs",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Tall Legs",
+      "completed": false
+    },
+    {
+      "quantity": "6",
+      "item": "Gable End Perim",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "End Uprights",
+      "completed": false
+    },
+    {
+      "quantity": "6",
+      "item": "Uprights",
+      "completed": false
+    },
+    {
+      "quantity": "8",
+      "item": "15' Perimeter",
+      "completed": false
+    },
+    {
+      "quantity": "8",
+      "item": "15' Purlins",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "15' Crossbars",
+      "completed": false
+    },
+    {
+      "quantity": "5",
+      "item": "Cross Braces",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "30' x 15' Mid Tops",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "30' Gable End Tops",
+      "completed": false
+    },
+    {
+      "quantity": "18",
+      "item": "Concrete Blocks",
+      "completed": false
+    },
+    {
+      "quantity": "10",
+      "item": "Navi Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "*Jacks",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Tarp",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Ladder",
+      "completed": false
+    }
+  ],
+  "tags": "30x60, gable, 30x60 gable, 30x60 navi, 30x60 navi-lite, 30 x 60 navi lite, 30 x 60 gable"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e26"
+  },
+  "id": 30,
+  "product": "30 x 75 Navi-Lite (Hip)",
+  "price": 1630,
+  "size": 2250,
+  "category": "Navi Trac",
+  "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/30x75_hip.jpg",
+  "parts": [
+    {
+      "quantity": "14",
+      "item": "8' Legs",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Diag. Corner",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Hip End Uprights",
+      "completed": false
+    },
+    {
+      "quantity": "8",
+      "item": "Uprights",
+      "completed": false
+    },
+    {
+      "quantity": "14",
+      "item": "15' Perimeter",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "15' Crossbars",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "15' Purlins",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Cross Braces",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "30' x 15' End Tops",
+      "completed": false
+    },
+    {
+      "quantity": "3",
+      "item": "30' x 15' Mid Tops",
+      "completed": false
+    },
+    {
+      "quantity": "16",
+      "item": "Concrete Blocks",
+      "completed": false
+    },
+    {
+      "quantity": "14",
+      "item": "Navi Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "*Jacks",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Tarp",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Ladder",
+      "completed": false
+    }
+  ],
+  "tags": "30x75, hip, 30x75 hip, 30x75 navi, 30x75 navi-lite, 30 x 75 navi lite"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e41"
+  },
+  "id": 57,
+  "product": "10 x 100 Festival",
+  "price": 1005,
+  "size": 1000,
+  "category": "Festival",
+  "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/10x100Diag.jpg",
+  "parts": [
+    {
+      "quantity": "22",
+      "item": "Legs (Black)",
+      "completed": false
+    },
+    {
+      "quantity": "31",
+      "item": "Perimeter (White)",
+      "completed": false
+    },
+    {
+      "quantity": "10",
+      "item": "Center Pole",
+      "completed": false
+    },
+    {
+      "quantity": "18",
+      "item": "'T' Castings",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "End Tops",
+      "completed": false
+    },
+    {
+      "quantity": "8",
+      "item": "Mid Tops",
+      "completed": false
+    }
+  ],
+  "tags": "10x100"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e46"
+  },
+  "id": 62,
+  "product": "12 x 16 Stage",
+  "price": 300,
+  "size": 192,
+  "category": "Stage",
+  "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/12x16.png",
+  "parts": [
+    {
+      "quantity": "6",
+      "item": "Stage Panels",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Z-Legs",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Single Locators",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Dual Locators",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Dual-Dual Locators",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Dual-Quad Locators",
+      "completed": false
+    }
+  ],
+  "tags": "12x16 stage, 12x16, stage, Stage"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e48"
+  },
+  "id": 64,
+  "product": "12 x 32 Stage",
+  "price": 300,
+  "size": 384,
+  "category": "Stage",
+  "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/12x32.png",
+  "parts": [
+    {
+      "quantity": "12",
+      "item": "Stage Panels",
+      "completed": false
+    },
+    {
+      "quantity": "6",
+      "item": "Z-Legs",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Single Locators",
+      "completed": false
+    },
+    {
+      "quantity": "8",
+      "item": "Dual Locators",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Dual-Dual Locators",
+      "completed": false
+    },
+    {
+      "quantity": "4",
+      "item": "Quad Locators",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "Dual-Quad Locators",
+      "completed": false
+    }
+  ],
+  "tags": "12x32 stage, 12x32, Stage, stage"
+},
+{
+  "_id": {
+    "$oid": "643dc74a24bb6ad080885e4e"
+  },
+  "id": 70,
+  "product": "40 x 40 Pole Tent",
+  "price": 1600,
+  "size": 1600,
+  "category": "Pole/Century",
+  "image": "https://safariproductimages.s3.us-east-2.amazonaws.com/40x40Pole.png",
+  "parts": [
+    {
+      "quantity": "24",
+      "item": "7' Legs",
+      "completed": false
+    },
+    {
+      "quantity": "12",
+      "item": "Big Stakes",
+      "completed": false
+    },
+    {
+      "quantity": "12",
+      "item": "Big Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "16",
+      "item": "Small Stakes",
+      "completed": false
+    },
+    {
+      "quantity": "16",
+      "item": "Small Ratchets",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "18' Center Pole",
+      "completed": false
+    },
+    {
+      "quantity": "2",
+      "item": "40' x 20' End Tops",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "Dumbbell",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "Pole Horses",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "Hammer/Pounder",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Measuring Tape",
+      "completed": false
+    },
+    {
+      "quantity": "1",
+      "item": "*Spray Paint",
+      "completed": false
+    },
+    {
+      "quantity": "24",
+      "item": "*Wood Squares",
+      "completed": false
+    }
+  ],
+  "tags": "40x40 pole tent, 40 x 40, 40x40, 40 x 40 pole tent, Pole Tent"
+}]
