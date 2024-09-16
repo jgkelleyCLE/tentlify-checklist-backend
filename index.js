@@ -46,6 +46,8 @@ connectionObj.on("error", ()=> {
 //     }
 // };
 
+console.log("WEB SOCKETTSSSSS")
+
 
 
 //WEB SOCKETS
@@ -53,17 +55,24 @@ const server = http.createServer(app)
 
 const io = new Server(server, {
     cors: {
-        origin: '*',
+        origin: 'https://tentlify-checklist.up.railway.app',
+        // origin: '*',
         methods: ['GET', 'POST', 'PUT', 'DELETE']
     }
 })
 
 let onlineUsers = []
 
+// const addNewUser = (username, socketId) => {
+//     !onlineUsers.some((user) => user.username === username) &&
+//       onlineUsers.push({ username, socketId });
+//   };
+
 const addNewUser = (username, socketId) => {
-    !onlineUsers.some((user) => user.username === username) &&
+  if (!onlineUsers.some((user) => user.username === username)) {
       onlineUsers.push({ username, socketId });
-  };
+  }
+};
   
   const removeUser = (socketId) => {
     onlineUsers = onlineUsers.filter((user) => user.socketId !== socketId);
@@ -75,7 +84,14 @@ const addNewUser = (username, socketId) => {
 
 
 io.on('connection', (socket) => {
+  console.log("HELLO SOCKET: ", socket)
     console.log(`user ${socket.id} connected from line 45`);
+
+    socket.on('addUser', (username)=> {
+        console.log("USERNAME: ", username)
+        addNewUser(username, socket.id)
+        console.log("ONLINE USERS: ", onlineUsers);
+    })
 
     socket.on('toggleItemComplete', async({ part, user }) => {
         console.log('Received toggleItemComplete event:', part, user);
@@ -86,30 +102,16 @@ io.on('connection', (socket) => {
     });
 
      // Notifications
-     socket.on('addUser', (username)=> {
-        console.log("USERNAME: ", username)
-        addNewUser(username, socket.id)
-        console.log("ONLINE USERS: ", onlineUsers);
-    })
-
-    // socket.on("sendNotification", ({ senderName, receiverName, loadId, title,  }) => {
-    //     const receiver = getUser(receiverName);
-    //     io.to(receiver?.socketId).emit("getNotification", {
-    //       senderName,
-    //       loadId,
-    //       title,
-
-    //     });
-    //   });
 
     socket.on("sendNotification", ({ senderName, receiverNames, loadId, title }) => {
 
         console.log("RECEIVER NAMES: ", receiverNames)
-        receiverNames.forEach(receiverName => {
+        receiverNames?.forEach(receiverName => {
           const receiver = getUser(receiverName.username);
 
           console.log("RECEIVERS ADDED IN SERVER: ", receiver)
           if (receiver) {
+            console.log(`Sending notification to socketId: ${receiver.socketId}`);
             io.to(receiver?.socketId).emit("getNotification", {
               senderName,
               loadId,
@@ -120,21 +122,13 @@ io.on('connection', (socket) => {
       });
 
 
-    socket.on('disconnect', () => {
-        console.log('A user disconnected');
+      socket.on('disconnect', () => {
+        console.log(`User ${socket.id} disconnected`);
+        removeUser(socket.id);
+        console.log("ONLINE USERS AFTER DISCONNECT: ", onlineUsers);
     });
 
-    // socket.on('disconnect', () => {
-    //     console.log('A user disconnected');
-    //     // Remove the disconnected user's socket ID from the map
-    //     for (const [userId, socketId] of Object.entries(userSocketMap)) {
-    //         if (socketId === socket.id) {
-    //             delete userSocketMap[userId];
-    //             console.log(`User ${userId} with socket ID ${socket.id} removed from userSocketMap`);
-    //             break;
-    //         }
-    //     }
-    // });
+    
 });
 
 
@@ -145,6 +139,9 @@ app.use('/api/users', userRoutes)
 app.use('/api/loads', loadRoutes)
 app.use('/api/mutated', mutatedRoutes)
 app.use('/api/jobs', jobRoutes)
+app.use('/', (req, res) => {
+    res.send('welcome to the server home page');
+  });
 
 server.listen(PORT, ()=> {
     console.log(`Server running on port ${PORT}`)
