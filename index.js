@@ -55,7 +55,7 @@ const server = http.createServer(app)
 
 const io = new Server(server, {
     cors: {
-        origin: 'tentlify.com',
+        origin: 'https://tentlify.com',
         // origin: '*',
         methods: ['GET', 'POST', 'PUT', 'DELETE']
     }
