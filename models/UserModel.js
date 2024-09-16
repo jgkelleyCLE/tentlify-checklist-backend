@@ -21,6 +21,12 @@ const UserSchema = new mongoose.Schema({
         type: String,
         
     },
+    favorites: [
+        {
+            type: mongoose.Schema.Types.ObjectId,
+            ref: 'Tent'
+        }
+    ],
     
 }, { timestamps: true })
 

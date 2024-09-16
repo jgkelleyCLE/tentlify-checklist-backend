@@ -13,14 +13,10 @@ export const googleSignIn = async(req, res) => {
             username: user.username,
             email: user.email,
             image: user.image,
-            subscribers: user.subscribers,
-            subscribedUsers: user.subscribedUsers,
             token: generateToken(user._id),
             createdAt: user.createdAt,
             favorites: user.favorites,
-            admin: user.admin,
-            verified: user.verified,
-            superUser: user.superUser
+            
         })
     }else {
         const generatedPassword = Math.random().toString(36).slice(-8)
@@ -34,7 +30,7 @@ export const googleSignIn = async(req, res) => {
         
 
         const newUser = await User.create({
-            username: newUsername,
+            username,
             email,
             password: hashedPassword,
             image: photo

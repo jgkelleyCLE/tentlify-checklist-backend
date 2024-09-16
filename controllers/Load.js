@@ -13,6 +13,7 @@ export const getLoads = async(req, res) => {
         .populate('users', '-password')
         .populate('tents')
         .populate('groupAdmin', '-password')
+        .sort({ createdAt: -1 })
         res.status(200).json(loads)
 
     } catch (error) {
@@ -36,6 +37,7 @@ export const getUsersLoads = async(req, res) => {
         .populate('users', '-password')
         .populate('tents')
         .populate('groupAdmin', '-password')
+        .sort({ createdAt: -1 })
         res.status(200).json(loads)
 
     } catch (error) {
@@ -53,6 +55,7 @@ export const getAdminLoads = async(req, res) => {
         .populate('users', '-password')
         .populate('tents')
         .populate('groupAdmin', '-password')
+        .sort({ createdAt: -1 })
         res.status(200).json(loads)
 
     } catch (error) {

@@ -21,7 +21,11 @@ const loadSchema = new mongoose.Schema({
     groupAdmin: {
         type: mongoose.Schema.Types.ObjectId,
         ref: 'User'
-    }
+    },
+    active: {
+        type: Boolean,
+        default: true
+    },
 }, { timestamps: true })
 
 const Load = mongoose.model('Load', loadSchema)
