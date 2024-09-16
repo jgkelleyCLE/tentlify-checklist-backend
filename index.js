@@ -55,8 +55,8 @@ const server = http.createServer(app)
 
 const io = new Server(server, {
     cors: {
-        origin: 'https://tentlify-checklist.up.railway.app',
-        // origin: '*',
+        // origin: 'https://tentlify-checklist.up.railway.app',
+        origin: '*',
         methods: ['GET', 'POST', 'PUT', 'DELETE']
     }
 })
