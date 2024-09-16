@@ -1,6 +1,6 @@
 import express from 'express'
 import { auth } from '../middleware/auth.js'
-import { createLoad, getLoads, addUserToLoad, removeUserFromLoad, addTentToLoad, removeTentFromLoad, getLoad, updateLoad, getAdminLoads, getUsersLoads, deleteLoad } from '../controllers/Load.js'
+import { createLoad, getLoads, addUserToLoad, removeUserFromLoad, addTentToLoad, removeTentFromLoad, getLoad, updateLoad, getAdminLoads, getUsersLoads, deleteLoad, deactivateLoad, activateLoad } from '../controllers/Load.js'
 
 const router = express.Router()
 
@@ -36,5 +36,11 @@ router.put('/:id', auth, updateLoad)
 
 //delete Load
 router.delete('/:id', auth, deleteLoad)
+
+//deactivateLoad
+router.put('/:id/deactivate', auth, deactivateLoad)
+
+//activate load
+router.put('/:id/activate', auth, activateLoad)
 
 export default router

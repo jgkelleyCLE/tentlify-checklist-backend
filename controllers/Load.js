@@ -504,3 +504,53 @@ export const deleteLoad = async(req, res) => {
     }
 
 }
+
+// export const deactivateLoad = async(req, res) => {
+
+//     const id = req.params.id
+//     console.log("DEACTIVATING LOAD: ", id)
+
+//     try {
+        
+//         const load = await Load.findByIdAndUpdate(id, { active: false }, { new: true })
+
+//         console.log("DEACTIVATED LOAD: ", load)
+//         res.status(200).json(load)
+//     } catch (error) {
+//         res.status(400).json({ message: error.message })
+//     }
+
+// }
+
+export const deactivateLoad = async (req, res) => {
+    const id = req.params.id;
+    console.log("DEACTIVATING LOAD: ", id);
+
+    try {
+        const load = await Load.findByIdAndUpdate(
+            id,
+            { $set: { active: false } },
+            { new: true }
+        );
+
+        console.log("DEACTIVATED LOAD: ", load);
+        res.status(200).json(load);
+    } catch (error) {
+        console.error("Error deactivating load:", error);
+        res.status(400).json({ message: error.message });
+    }
+};
+
+export const activateLoad = async(req, res) => {
+
+    const id = req.params.id
+
+    try {
+        
+        const load = await Load.findByIdAndUpdate(id, { active: true }, { new: true })
+        res.status(200).json(load)
+    } catch (error) {
+        res.status(400).json({ message: error.message })
+    }
+
+}
