@@ -1,6 +1,6 @@
 import express from 'express'
 import { auth } from '../middleware/auth.js'
-import { createLoad, getLoads, addUserToLoad, removeUserFromLoad, addTentToLoad, removeTentFromLoad, getLoad, updateLoad, getAdminLoads, getUsersLoads, deleteLoad, deactivateLoad, activateLoad } from '../controllers/Load.js'
+import { createLoad, getLoads, addUserToLoad, removeUserFromLoad, addTentToLoad, removeTentFromLoad, getLoad, updateLoad, getAdminLoads, getUsersLoads, deleteLoad, deactivateLoad, activateLoad, createdMutatedTent, createLoadFromOrder } from '../controllers/Load.js'
 
 const router = express.Router()
 
@@ -33,6 +33,12 @@ router.put('/:id/removeTent', auth, removeTentFromLoad)
 
 //update load
 router.put('/:id', auth, updateLoad)
+
+//created mutated tent from order
+router.put('/order/:id', auth, createdMutatedTent)
+
+//created load from order
+router.post('/create/:id', createLoadFromOrder)
 
 //delete Load
 router.delete('/:id', auth, deleteLoad)

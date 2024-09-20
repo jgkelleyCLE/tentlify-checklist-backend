@@ -434,6 +434,27 @@ export const removeTentFromLoad = async(req, res) => {
 //     }
 // };
 
+export const createLoadFromOrder = async(req, res) => {
+
+    // const {title} = req.body
+
+    const id = req.params.id
+
+    try {
+        
+        const newLoad = await Load.create({
+            // title,
+            groupAdmin: '66e9d31254c4dbdb6dbe9507' //admin's ID
+        })
+
+        res.status(201).json(newLoad)
+
+    } catch (error) {
+        res.status(400).json({ message: error.message })
+    }
+
+}
+
 export const updateLoad = async (req, res) => {
     const { title, users, tents } = req.body;
     const id = req.params.id;
@@ -476,7 +497,7 @@ export const updateLoad = async (req, res) => {
                 path: 'tents',
                 model: 'MutatedTent'
             })
-            .populate('groupAdmin', '-password');
+            // .populate('groupAdmin', '-password');
 
             res.status(200).json(updatedLoad);
         } else {
@@ -486,6 +507,47 @@ export const updateLoad = async (req, res) => {
         res.status(400).json({ message: error.message });
     }
 };
+
+export const createdMutatedTent = async(req, res) => {
+
+    const { tents } = req.body
+
+
+    // Fetch and mutate each tent
+    const mutatedTents = await Promise.all(tents.map(async (tentId) => {
+        const originalTent = await Tent.findById(tentId);
+
+        if (!originalTent) {
+            throw new Error(`Tent with ID ${tentId} not found`);
+        }
+
+        // Remove the _id field from the original tent object
+        const { _id, ...tentData } = originalTent.toObject();
+
+        // Create a mutated tent based on the original tent
+        const mutatedTent = new MutatedTent({
+            ...tentData,
+            originalTentId: originalTent._id
+        });
+
+        // Save the mutated tent to the database
+        const savedMutatedTent = await mutatedTent.save();
+        return savedMutatedTent._id;
+    }));
+
+    // Update the load with the mutated tents
+    const updatedLoad = await Load.findByIdAndUpdate(
+        id,
+        { title, users, tents: mutatedTents },
+        { new: true }
+    )
+    // .populate('users', '-password')
+    // .populate('tents')
+    .populate({
+        path: 'tents',
+        model: 'MutatedTent'
+    })
+}
 
 //delete load
 export const deleteLoad = async(req, res) => {
