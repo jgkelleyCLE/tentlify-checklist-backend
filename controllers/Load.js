@@ -436,14 +436,16 @@ export const removeTentFromLoad = async(req, res) => {
 
 export const createLoadFromOrder = async(req, res) => {
 
-    // const {title} = req.body
+    const {order} = req.body
+
+    console.log("ORDER: ", order)
 
     const id = req.params.id
 
     try {
         
         const newLoad = await Load.create({
-            // title,
+            title: order.title,
             groupAdmin: '66e9d31254c4dbdb6dbe9507' //admin's ID
         })
 
