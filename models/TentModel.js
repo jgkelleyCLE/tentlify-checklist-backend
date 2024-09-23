@@ -1,6 +1,10 @@
 import mongoose from 'mongoose'
 
 const TentSchema = new mongoose.Schema({
+    // _id: {
+    //     type: mongoose.Schema.Types.ObjectId,
+    //     auto: true
+    // },
     product: {
         type: String,
         required: true
@@ -31,25 +35,26 @@ const TentSchema = new mongoose.Schema({
         {
             _id: {
                 type: mongoose.Schema.Types.ObjectId,
-                required: true,
+                // required: true,
                 auto: true
             },
             item: {
                 type: String,
-                required: true
+                // required: true
             },
             quantity: {
                 type: Number,
-                required: true
+                // required: true
             },
             completed: {
                 type: Boolean,
-                required: true,
+                // required: true,
                 default: false
             },
             completedBy: {
                 type: mongoose.Schema.Types.ObjectId,
-                ref: 'User'
+                ref: 'User',
+                required:false
             }
         }
     ],

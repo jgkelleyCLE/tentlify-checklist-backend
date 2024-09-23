@@ -35,7 +35,6 @@ export const getJobs = async(req, res) => {
 export const getJob = async(req, res) => {
     const id = req.params.id
 
-    console.log("ID FROM SINGLE JOB: ", id)
 
     try {
         const job = await Job.findById(id)

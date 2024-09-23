@@ -1,6 +1,6 @@
 import mongoose from 'mongoose'
 
-const MutatedTentSchema = new mongoose.Schema({
+const MutatedTableSchema = new mongoose.Schema({
     _id: {
         type: mongoose.Schema.Types.ObjectId,
         auto: true
@@ -19,10 +19,6 @@ const MutatedTentSchema = new mongoose.Schema({
     },
     category: {
         type: String,
-        required: false
-    },
-    cartQuantity: {
-        type: Number,
         required: false
     },
     images: [
@@ -48,7 +44,7 @@ const MutatedTentSchema = new mongoose.Schema({
             },
             quantity: {
                 type: Number,
-                required: false
+                required: true
             },
             completed: {
                 type: Boolean,
@@ -61,10 +57,9 @@ const MutatedTentSchema = new mongoose.Schema({
             }
         }
     ],
-    
     tags: String
 }, { timestamps: true })
 
-const MutatedTent = mongoose.model('MutatedTent', MutatedTentSchema)
+const MutatedTable = mongoose.model('MutatedTable', MutatedTableSchema)
 
-export default MutatedTent
+export default MutatedTable

@@ -21,13 +21,26 @@ export const getTent = async(req, res) => {
     }
 }
 
+export const fetchTents = async(req, res) => {
+
+    try {
+        
+        const tents = await Tent.find({ category: "Tents" }).sort({ size: 1 })
+        res.status(200).json(tents)
+
+    } catch (error) {
+        res.status(400).json({ message: error.message })
+    }
+
+}
+
 //get tent by category
 export const getTentByCategory = async(req, res) => {
 
     const category = req.params.category
 
     try {
-        const tents = await Tent.find({ category: category }).sort({ size: 1 })
+        const tents = await Tent.find({ tentType: category }).sort({ size: 1 })
         res.status(200).json(tents)
     } catch (error) {
         res.status(400).json({ message: error.message })
@@ -38,9 +51,6 @@ export const getTentByCategory = async(req, res) => {
 export const updateTentPart = async (req, res) => {
     const { id } = req.params;
     const { parts } = req.body;
-
-    console.log("id: ", id)
-    console.log("parts: ", parts)
 
     try {
         const tent = await Tent.findById(id);

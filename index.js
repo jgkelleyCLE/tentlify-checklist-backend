@@ -84,7 +84,7 @@ const addNewUser = (username, socketId) => {
 
 
 io.on('connection', (socket) => {
-  console.log("HELLO SOCKET: ", socket)
+  
     console.log(`user ${socket.id} connected from line 45`);
 
     socket.on('addUser', (username)=> {
@@ -94,7 +94,7 @@ io.on('connection', (socket) => {
     })
 
     socket.on('toggleItemComplete', async({ part, user }) => {
-        console.log('Received toggleItemComplete event:', part, user);
+        // console.log('Received toggleItemComplete event:', part, user);
         // Broadcast the update to all connected clients
         io.emit('itemToggled', { part, user });
 
@@ -103,19 +103,39 @@ io.on('connection', (socket) => {
 
      // Notifications
 
-    socket.on("sendNotification", ({ senderName, receiverNames, loadId, title }) => {
+    socket.on("sendNotification", ({ senderName, receiverNames, loadId, title, type }) => {
 
-        console.log("RECEIVER NAMES: ", receiverNames)
+        // console.log("RECEIVER NAMES: ", receiverNames)
         receiverNames?.forEach(receiverName => {
           const receiver = getUser(receiverName.username);
 
-          console.log("RECEIVERS ADDED IN SERVER: ", receiver)
+          // console.log("RECEIVERS ADDED IN SERVER: ", receiver)
           if (receiver) {
             console.log(`Sending notification to socketId: ${receiver.socketId}`);
             io.to(receiver?.socketId).emit("getNotification", {
               senderName,
               loadId,
-              title
+              title,
+              type
+            });
+          }
+        });
+      });
+
+    socket.on("orderNotification", ({ senderName, receiverNames, loadId, title, type }) => {
+
+        // console.log("RECEIVER NAMES: ", receiverNames)
+        receiverNames?.forEach(receiverName => {
+          const receiver = getUser(receiverName.username);
+
+          // console.log("RECEIVERS ADDED IN SERVER: ", receiver)
+          if (receiver) {
+            console.log(`Sending notification to socketId: ${receiver.socketId}`);
+            io.to(receiver?.socketId).emit("getOrderNotification", {
+              senderName,
+              loadId,
+              title,
+              type
             });
           }
         });

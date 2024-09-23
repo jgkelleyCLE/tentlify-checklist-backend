@@ -2,6 +2,7 @@ import mongoose from 'mongoose'
 
 
 const loadSchema = new mongoose.Schema({
+   
     title: {
         type: String,
         required: false
@@ -26,6 +27,16 @@ const loadSchema = new mongoose.Schema({
         type: Boolean,
         default: true
     },
+    orderId: { type: String, required: false, unique: true }, 
+    eventDate: {
+        type: String,
+        required: false
+    },
+    loadType: {
+        type: Number,
+        required: false,
+        default: 1
+    }
 }, { timestamps: true })
 
 const Load = mongoose.model('Load', loadSchema)

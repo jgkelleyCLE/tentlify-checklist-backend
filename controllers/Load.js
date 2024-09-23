@@ -3,6 +3,8 @@ import { createMutatedTentHelper } from "../utils/mutateTentHelper.js";
 import { createMutatedTent } from "./MutatedTent.js";
 import MutatedTent from "../models/MutatedTentModel.js";
 import Tent from "../models/TentModel.js";
+import MutatedTable from "../models/MutatedTableModel.js";
+import MutatedChair from '../models/MutatedChairModel.js';
 
 //GET ALL LOADS
 export const getLoads = async(req, res) => {
@@ -128,21 +130,14 @@ export const createLoad = async (req, res) => {
 
     try {
         const loadData = {
-            groupAdmin: req.user.id
+            groupAdmin: req.user.id,
+            // loadType: 1
         };
 
         console.log("LOAD DATA: ", loadData)
 
         const newLoad = await Load.create(loadData);
 
-        // const fullLoad = await Load.findById(newLoad._id)
-        //     .populate('users', '-password')
-        //     .populate('tents')
-        //     .populate('groupAdmin', '-password');
-
-        //     console.log("FULL LOAD: ", fullLoad)
-
-        // res.status(201).json(fullLoad);
         res.status(201).json(newLoad)
     } catch (error) {
         res.status(400).json({ message: error.message });
@@ -206,73 +201,13 @@ export const removeUserFromLoad = async(req, res) => {
 
 }
 
-//add tent to load -- WITHOUT MUTATION
-// export const addTentToLoad = async(req, res) => {
-
-//     const { tentId } = req.body
-//     const loadId = req.params.id
-
-//     try {
-        
-//         const load = await Load.findById(id)
-
-//         if(load.groupAdmin.toString() === req.user.id.toString()){
-//             const updatedLoad = await Load.findByIdAndUpdate(
-//                 loadId,
-//                 { $push: { tents: tentId } },
-//                 { new: true }
-//             )
-//             .populate('users', '-password')
-//             .populate('tents')
-//             .populate('groupAdmin', '-password')
-        
-
-//             res.status(200).json(updatedLoad)
-//         }
-//     } catch(error){
-//         res.status(400).json({ message: error.message })
-//     }
-
-// }
-
-//ADD MUTATED TENT TO LOAD
-// export const addTentToLoad = async (req, res) => {
-//     const { tentId } = req.body;
-//     const loadId = req.params.id;
-
-//     try {
-//         // Create a new mutated tent
-//         const newMutatedTent = await createMutatedTentHelper(tentId);
-
-//         // Fetch the load
-//         const load = await Load.findById(loadId);
-
-//         if (load.groupAdmin.toString() === req.user.id.toString()) {
-//             // Add the new mutated tent to the load
-//             const updatedLoad = await Load.findByIdAndUpdate(
-//                 loadId,
-//                 { $push: { tents: newMutatedTent._id } },
-//                 { new: true }
-//             )
-//             .populate('users', '-password')
-//             .populate('tents')
-//             .populate('groupAdmin', '-password');
-
-//             res.status(200).json(updatedLoad);
-//         } else {
-//             res.status(403).json({ message: 'Unauthorized' });
-//         }
-//     } catch (error) {
-//         res.status(400).json({ message: error.message });
-//     }
-// };
 
 //add tent to load -- WITH MUTATION
 export const addTentToLoad = async (req, res) => {
     const { tentId } = req.body;
     const loadId = req.params.id;
 
-    console.log("TENT ID being mutated: ", tentId)
+    
 
     try {
         // Fetch the original tent
@@ -290,7 +225,7 @@ export const addTentToLoad = async (req, res) => {
         })
         res.status(201).json(newTent)
 
-        console.log("NEW TENT: ", newTent)
+        
 
         // Fetch the load
         const load = await Load.findById(loadId);
@@ -348,114 +283,67 @@ export const removeTentFromLoad = async(req, res) => {
 
 }
 
-//update load with users, tents, name
-// export const updateLoad = async(req, res) => {
-
-//     const { title, users, tents } = req.body
-//     const id = req.params.id
-
-//     try {
-        
-//         const load = await Load.findById(id)
-
-//         if(load.groupAdmin.toString() === req.user.id.toString()){
-//             const updatedLoad = await Load.findByIdAndUpdate(
-//                 id,
-//                 { title, users, tents },
-//                 { new: true }
-//             )
-//             .populate('users', '-password')
-//             .populate('tents')
-//             .populate('groupAdmin', '-password')
-        
-
-//             res.status(200).json(updatedLoad)
-//         }
-//     } catch(error){
-//         res.status(400).json({ message: error.message })
-//     }
-
-// }
-
-//update load with mutation
-// export const updateLoad = async (req, res) => {
-//     const { title, users, tents } = req.body;
-//     const id = req.params.id;
-
-//     try {
-//         const load = await Load.findById(id);
-
-//         if (load.groupAdmin.toString() === req.user.id.toString()) {
-//             // Fetch and mutate each tent
-//             const mutatedTents = await Promise.all(tents.map(async (tentId) => {
-//                 const originalTent = await Tent.findById(tentId);
-
-//                 if (!originalTent) {
-//                     throw new Error(`Tent with ID ${tentId} not found`);
-//                 }
 
 
-//                 // const newTent = await MutatedTent.create({
-//                 //     _id: undefined,
-//                 //     ...originalTent._doc,
-//                 //     originalTentId: originalTent._id
-//                 // })
-//                 // res.status(201).json(newTent)
+export const createLoadFromOrder = async (req, res) => {
+    const { order } = req.body;
+    const id = req.params.id;
 
-//                 // Create a mutated tent based on the original tent
-//                 const mutatedTent = new MutatedTent({
-//                     // _id: undefined,
-//                     ...originalTent._doc,
-//                     originalTentId: originalTent._id
-//                     // mutated: true // Example mutation
-//                 });
-
-//                 // Save the mutated tent to the database
-//                 const savedMutatedTent = await mutatedTent.save();
-//                 return savedMutatedTent._id;
-//             }));
-
-//             // Update the load with the mutated tents
-//             const updatedLoad = await Load.findByIdAndUpdate(
-//                 id,
-//                 { title, users, tents: mutatedTents },
-//                 { new: true }
-//             )
-//             .populate('users', '-password')
-//             .populate('tents')
-//             .populate('groupAdmin', '-password');
-
-//             res.status(200).json(updatedLoad);
-//         } else {
-//             res.status(403).json({ message: 'Unauthorized' });
-//         }
-//     } catch (error) {
-//         res.status(400).json({ message: error.message });
-//     }
-// };
-
-export const createLoadFromOrder = async(req, res) => {
-
-    const {order} = req.body
-
-    console.log("ORDER: ", order)
-
-    const id = req.params.id
+    
 
     try {
-        
+
+         // Check if a load with the given order ID already exists
+         const existingLoad = await Load.findOne({ orderId: order._id });
+         if (existingLoad) {
+             return res.status(200).json(existingLoad);
+         }
+
+        // Fetch and mutate each tent
+        const mutatedTents = await Promise.all(order.orderItems.map(async (item) => {
+            const { tentId, cartQuantity } = item; 
+            const originalTent = await Tent.findById(item._id);
+
+            // if (!originalTent) {
+            //     throw new Error(`Tent with ID ${tentId} not found`);
+            // }
+
+            // Remove the _id field from the original tent object
+            const { _id, ...tentData } = originalTent.toObject();
+
+            // Create a mutated tent based on the original tent
+            const mutatedTent = new MutatedTent({
+                ...tentData,
+                cartQuantity,
+                originalTentId: originalTent._id
+            });
+
+            // Save the mutated tent to the database
+            const savedMutatedTent = await mutatedTent.save();
+            return savedMutatedTent._id;
+        }));
+
+    
+
+        // Create a new load with the mutated tents, tables, and chairs
         const newLoad = await Load.create({
             title: order.title,
-            groupAdmin: '66e9d31254c4dbdb6dbe9507' //admin's ID
-        })
+            users: req.user.id,
+            tents: mutatedTents,
+            // tables: mutatedTables,
+            // chairs: mutatedChairs,
+            groupAdmin: '66ed7fedf802032033a4337a', // admin's ID
+            orderId: order._id,
+            eventDate: order.eventDate,
+            cartQuantity: order.cartQuantity,
+            loadType: 2
+        });
 
-        res.status(201).json(newLoad)
-
+        res.status(201).json(newLoad);
     } catch (error) {
-        res.status(400).json({ message: error.message })
+        res.status(400).json({ message: error.message });
     }
-
-}
+};
 
 export const updateLoad = async (req, res) => {
     const { title, users, tents } = req.body;
@@ -463,6 +351,11 @@ export const updateLoad = async (req, res) => {
 
     try {
         const load = await Load.findById(id);
+
+        if(!load){
+            console.log("LOAD NOT FOUND")
+            return res.status(404).json({ message: 'Load not found' });
+        }
 
         if (load.groupAdmin.toString() === req.user.id.toString()) {
             // Fetch and mutate each tent
@@ -490,7 +383,7 @@ export const updateLoad = async (req, res) => {
             // Update the load with the mutated tents
             const updatedLoad = await Load.findByIdAndUpdate(
                 id,
-                { title, users, tents: mutatedTents },
+                { title, users, tents: mutatedTents, groupAdmin: '66ed7fedf802032033a4337a' },
                 { new: true }
             )
             .populate('users', '-password')
@@ -513,6 +406,8 @@ export const updateLoad = async (req, res) => {
 export const createdMutatedTent = async(req, res) => {
 
     const { tents } = req.body
+
+    const id = req.params.id
 
 
     // Fetch and mutate each tent
@@ -538,25 +433,25 @@ export const createdMutatedTent = async(req, res) => {
     }));
 
     // Update the load with the mutated tents
-    const updatedLoad = await Load.findByIdAndUpdate(
-        id,
-        { title, users, tents: mutatedTents },
-        { new: true }
-    )
-    // .populate('users', '-password')
-    // .populate('tents')
-    .populate({
-        path: 'tents',
-        model: 'MutatedTent'
-    })
+    // const updatedLoad = await Load.findByIdAndUpdate(
+    //     id,
+    //     { title, users, tents: mutatedTents },
+    //     { new: true }
+    // )
+    // // .populate('users', '-password')
+    // // .populate('tents')
+    // .populate({
+    //     path: 'tents',
+    //     model: 'MutatedTent'
+    // })
+
+    // res.status(200).json(updatedLoad);
 }
 
 //delete load
 export const deleteLoad = async(req, res) => {
 
     const id = req.params.id
-
-    console.log("ID: ", id)
 
     try {
         
@@ -569,26 +464,11 @@ export const deleteLoad = async(req, res) => {
 
 }
 
-// export const deactivateLoad = async(req, res) => {
 
-//     const id = req.params.id
-//     console.log("DEACTIVATING LOAD: ", id)
-
-//     try {
-        
-//         const load = await Load.findByIdAndUpdate(id, { active: false }, { new: true })
-
-//         console.log("DEACTIVATED LOAD: ", load)
-//         res.status(200).json(load)
-//     } catch (error) {
-//         res.status(400).json({ message: error.message })
-//     }
-
-// }
 
 export const deactivateLoad = async (req, res) => {
     const id = req.params.id;
-    console.log("DEACTIVATING LOAD: ", id);
+    
 
     try {
         const load = await Load.findByIdAndUpdate(

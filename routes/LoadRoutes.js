@@ -35,10 +35,10 @@ router.put('/:id/removeTent', auth, removeTentFromLoad)
 router.put('/:id', auth, updateLoad)
 
 //created mutated tent from order
-router.put('/order/:id', auth, createdMutatedTent)
+router.put('/order/mutated', auth, createdMutatedTent)
 
 //created load from order
-router.post('/create/:id', createLoadFromOrder)
+router.post('/create/:id', auth, createLoadFromOrder)
 
 //delete Load
 router.delete('/:id', auth, deleteLoad)
