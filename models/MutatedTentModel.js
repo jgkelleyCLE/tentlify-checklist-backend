@@ -35,6 +35,10 @@ const MutatedTentSchema = new mongoose.Schema({
         type: String,
         required: false
     },
+    schematic: {
+        type: String,
+        required: false
+    },
     parts: [
         {
             _id: {
